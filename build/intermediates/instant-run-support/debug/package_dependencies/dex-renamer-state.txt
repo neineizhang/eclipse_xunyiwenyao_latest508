@@ -1,0 +1,13 @@
+#Thu May 11 14:41:58 CST 2017
+renamed.3=classes.dex
+renamed.2=classes2.dex
+renamed.1=classes4.dex
+renamed.0=classes3.dex
+base.3=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_6ef8c47ae22781b76c8a9221d2dab8ae4fc14b92
+base.2=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.8.0_d3266daa0ca0141f2c49a8da2caa5f781e15c565
+base.1=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/json-lib-2.4-jdk15_903492523deea6a1fc95a2fea8a0319c92705a33
+base.0=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/json-20160810_dc89f3aee16bdd3a090187f6a229d09f3911a7fe
+file.3=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_6ef8c47ae22781b76c8a9221d2dab8ae4fc14b92/classes.dex
+file.2=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.8.0_d3266daa0ca0141f2c49a8da2caa5f781e15c565/classes.dex
+file.1=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/json-lib-2.4-jdk15_903492523deea6a1fc95a2fea8a0319c92705a33/classes.dex
+file.0=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/json-20160810_dc89f3aee16bdd3a090187f6a229d09f3911a7fe/classes.dex

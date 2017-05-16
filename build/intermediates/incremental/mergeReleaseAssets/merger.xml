@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/assets"/><source path="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build-types/release/assets"/></dataSet></merger>

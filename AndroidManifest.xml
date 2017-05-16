@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zll.xunyiwenyao"
+    android:versionCode="1"
+    android:versionName="1.0" >
+    
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="22" />
+    
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" android:persistent="false">
+        <activity
+            android:name="com.zll.xunyiwenyao.activity.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="online_prescription"
+                android:scheme="xunyaowenyi"/>
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name="com.zll.xunyiwenyao.activity.MainActivity">
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.VIEW"/>-->
+                <!--<category android:name="android.intent.category.DEFAULT"/>-->
+                <!--<category android:name="android.intent.category.BROWSABLE"/>-->
+                <!--<data android:host="online_prescription"-->
+                    <!--android:scheme="xunyaowenyi"/>-->
+            <!--</intent-filter>-->
+        </activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionCreateActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionCreateMainActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionExamineActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionQueryActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionTemplateActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionTemplateMangeActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionQueryAllPrescriptionActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionQueryApprovedActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionQueryRefuseActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionQueryToApproveActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionQueryToSubmitActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionExamineRefusedActivity"></activity>
+		<activity android:name="com.zll.xunyiwenyao.activity.PrescriptionExamineAllActivity"></activity>
+		<activity android:name="com.zll.xunyiwenyao.activity.PrescriptionExamineApprovedActivity"></activity>
+		<activity android:name="com.zll.xunyiwenyao.activity.PrescriptionExamingPrescriptionActivity"></activity>
+
+        <activity android:name="com.zll.xunyiwenyao.activity.InspectionCreateActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.InspectionQueryActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.ReviewCreateActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.ReportCreateActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.RegisterActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.InspectionCheckActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.DoctorInformationManageActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.AccessorMainActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.ReviewQueryActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.ReviewCheckActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.ReportQueryActivity"></activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.ReportCheckActivity"></activity>
+
+
+
+
+    </application>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+</manifest>

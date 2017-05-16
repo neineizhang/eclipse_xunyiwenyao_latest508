@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listInspectionTypeArr">
+        <item>心电图</item>
+        <item>X光</item>CT
+        <item>CT</item>
+        <item>B超</item>
+    </string-array>
+
+</resources>

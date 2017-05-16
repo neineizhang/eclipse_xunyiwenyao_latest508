@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zll.xunyiwenyao"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:persistent="false"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.zll.xunyiwenyao.activity.LoginActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="online_prescription"
+                    android:scheme="xunyaowenyi" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.MainActivity" >
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.VIEW"/> -->
+            <!-- <category android:name="android.intent.category.DEFAULT"/> -->
+            <!-- <category android:name="android.intent.category.BROWSABLE"/> -->
+            <!-- <data android:host="online_prescription" -->
+            <!-- android:scheme="xunyaowenyi"/> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionCreateActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionCreateMainActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionExamineActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionQueryActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionTemplateActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionTemplateMangeActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionQueryAllPrescriptionActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionQueryApprovedActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionQueryRefuseActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionQueryToApproveActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionQueryToSubmitActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionExamineRefusedActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionExamineAllActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionExamineApprovedActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.PrescriptionExamingPrescriptionActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.InspectionCreateActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.InspectionQueryActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.ReviewCreateActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.ReportCreateActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.RegisterActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.InspectionCheckActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.DoctorInformationManageActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.AccessorMainActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.ReviewQueryActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.ReviewCheckActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.ReportQueryActivity" />
+        <activity android:name="com.zll.xunyiwenyao.activity.ReportCheckActivity" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.zll.xunyiwenyao.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

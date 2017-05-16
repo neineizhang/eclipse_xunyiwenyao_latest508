@@ -1,0 +1,7 @@
+#Mon May 15 13:44:45 CST 2017
+base.0=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_125445eaca9d13e1ffdd83296c69377e261a4d8c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c87f7c7ccfb22a91f052338754aa64d7a0f982f8/classes.dex
+base.1=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c87f7c7ccfb22a91f052338754aa64d7a0f982f8
+file.0=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_125445eaca9d13e1ffdd83296c69377e261a4d8c/classes.dex

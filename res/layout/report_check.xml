@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/background_login">
+
+            <com.zll.xunyiwenyao.util.TopBarView
+                android:id="@+id/topbar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                custom:titleText="药物不良反应报告信息管理"
+                custom:titleSize="6sp"
+                custom:titleColor="@android:color/white"
+                custom:leftBtn="@drawable/back_page"
+                custom:rightBtn="@drawable/edit_normal" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="*报告名称：" />
+
+            <View
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:background="#BFBFBF"
+                android:layout_gravity="center_horizontal" />
+
+            <EditText
+                android:id="@+id/name_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:enabled="false">
+
+                <requestFocus />
+            </EditText>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="*重要程度" />
+
+            <EditText
+                android:id="@+id/level_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLength="11"
+                android:enabled="false"/>
+
+        </LinearLayout>
+
+        <View  android:layout_height="1px"
+            android:layout_width="match_parent"
+            android:background="#BFBFBF"
+
+            />
+
+        <!-- 临床表现 -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:text="*临床表现"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:background="#B0B0B0"
+                android:textSize="18sp"
+                android:layout_weight="2" />
+
+            <View  android:layout_height="1px"
+                android:layout_width="match_parent"
+                android:background="#BFBFBF"/>
+
+            <EditText
+                android:id="@+id/manifestation_text"
+                android:layout_width="match_parent"
+                android:layout_height="62dp"
+                android:ems="10"
+                android:inputType="textMultiLine"
+                android:enabled="false">
+            </EditText>
+        </LinearLayout>
+        <!-- 涉及药品 -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+
+
+            <!--<TextView-->
+            <!--android:id="@+id/textView3"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="0dp"-->
+            <!--android:text="*涉及的主要药品"-->
+            <!--android:textColor="#000000"-->
+            <!--android:textStyle="bold"-->
+            <!--android:background="#B0B0B0"-->
+            <!--android:textSize="18sp"-->
+            <!--android:layout_weight="1" />-->
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/drugs_information"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#B0B0B0"
+                    android:text="*涉及的主要药品"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+
+            </RelativeLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:minHeight="40dip"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="2"
+                        android:gravity="center"
+                        android:text="药品ID"
+                        android:textColor="#850" />
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="2"
+                        android:gravity="center"
+                        android:text="药品名称"
+                        android:textColor="#850" />
+                </LinearLayout>
+
+                <ListView
+                    android:id="@+id/drugs_lv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:cacheColorHint="@android:color/transparent"
+                    android:scrollbars="none" >
+                </ListView>
+            </LinearLayout>
+        </LinearLayout>
+
+        <!-- 其他信息 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:text="其他信息"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:background="#B0B0B0"
+                android:textSize="18sp"
+                android:layout_weight="2" />
+
+            <View  android:layout_height="1px"
+                android:layout_width="match_parent"
+                android:background="#BFBFBF"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" >
+
+                <TextView
+                    android:id="@+id/event_date_view"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="发生日期"
+                    android:layout_weight="1"/>
+                <View
+                    android:layout_width="1px"
+                    android:layout_height="match_parent"
+                    android:background="#BFBFBF"
+                    android:layout_gravity="center_horizontal"/>
+
+                <EditText
+                    android:id="@+id/event_date_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.2"
+                    android:enabled="false"/>
+
+
+            </LinearLayout>
+
+            <View  android:layout_height="1px"
+                android:layout_width="match_parent"
+                android:background="#BFBFBF"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" >
+
+                <TextView
+                    android:id="@+id/date_view"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="报告日期"
+                    android:layout_weight="1"/>
+                <View
+                    android:layout_width="1px"
+                    android:layout_height="match_parent"
+                    android:background="#BFBFBF"
+                    android:layout_gravity="center_horizontal"/>
+
+                <EditText
+                    android:id="@+id/report_date_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.22"
+                    android:inputType="date"
+                    android:enabled="false"/>
+
+
+            </LinearLayout>
+
+            <View  android:layout_height="1px"
+                android:layout_width="match_parent"
+                android:background="#BFBFBF"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" >
+
+                <TextView
+                    android:id="@+id/doctor_view"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="医师"
+                    android:layout_weight="1"/>
+                <View
+                    android:layout_width="1px"
+                    android:layout_height="match_parent"
+                    android:background="#BFBFBF"
+                    android:layout_gravity="center_horizontal"/>
+
+                <EditText
+                    android:id="@+id/doctor_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:enabled="false"/>
+
+            </LinearLayout>
+
+            <View  android:layout_height="1px"
+                android:layout_width="match_parent"
+                android:background="#BFBFBF"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" >
+
+                <TextView
+                    android:id="@+id/comment_view"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="备注"
+                    android:layout_weight="1"/>
+                <View
+                    android:layout_width="1px"
+                    android:layout_height="match_parent"
+                    android:background="#BFBFBF"
+                    android:layout_gravity="center_horizontal"/>
+
+                <EditText
+                    android:id="@+id/comment_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:enabled="false"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>

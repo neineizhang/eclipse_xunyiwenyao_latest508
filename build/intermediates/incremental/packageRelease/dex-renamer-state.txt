@@ -1,0 +1,4 @@
+#Thu May 11 14:22:40 CST 2017
+base.0=/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex
