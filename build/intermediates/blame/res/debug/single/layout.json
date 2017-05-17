@@ -1,307 +1,51 @@
 [
     {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/inspection_create.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/inspection_create.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/maininterface2.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/maininterface2.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/register_layout.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/register_layout.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/prescription_template_lvgroup.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/prescription_template_lvgroup.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/prescription_examine_lvitem.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/prescription_examine_lvitem.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/add_drugs_dialog_item.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/add_drugs_dialog_item.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_create.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescription_create.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/scroll_item.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/scroll_item.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/templatemanage_list.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/templatemanage_list.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/newprescription.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/newprescription.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_query.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/prescription_query.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_template.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/prescription_template.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/itemoftemplate.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/itemoftemplate.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_examine.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescription_examine.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/maininterface.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/maininterface.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_examine_lvitem.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescription_examine_lvitem.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/prescriptionquery_lvitem.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/prescriptionquery_lvitem.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/inspection_template.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/inspection_template.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/maininterface.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/maininterface.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/review_query.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/review_query.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/item_exlist_group.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/item_exlist_group.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/report_create.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/report_create.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/report_query.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/report_query.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/report_create.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/report_create.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_template_lvgroup.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescription_template_lvgroup.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_query.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescription_query.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/drugs_list.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/drugs_list.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/prescription_query.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/prescription_query.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/inspection_listview.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/inspection_listview.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/prescription_examine.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/prescription_examine.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/inspection_template.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/inspection_template.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_examine_lv.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescription_examine_lv.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/newprescription_list.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/newprescription_list.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/review_query.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/review_query.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/register_layout.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/register_layout.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_examine.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/prescription_examine.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/scroll_item.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/scroll_item.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/newprescription_list.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/newprescription_list.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/inspection_query.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/inspection_query.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/drug_listview_report.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/drug_listview_report.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/report_create.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/report_create.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/prescription_create_itemlist.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/prescription_create_itemlist.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/login.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/login.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/review_listview.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/review_listview.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/examing_scroll_view.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/examing_scroll_view.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/drugs_list.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/drugs_list.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/maininterface2.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/maininterface2.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/prescription_examine_lv.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/prescription_examine_lv.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/review_check.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/review_check.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/report_query.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/report_query.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescriptionquery_lvitem.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescriptionquery_lvitem.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_template_lvgroup.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/prescription_template_lvgroup.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/login.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/login.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescriptionqueryall.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescriptionqueryall.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/drug_listview_report.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/drug_listview_report.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescriptionquery_lvitem.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/prescriptionquery_lvitem.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/newprescription.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/newprescription.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/add_drugs_dialog_item.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/add_drugs_dialog_item.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/examiningprescription.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/examiningprescription.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/itemoftemplate.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/itemoftemplate.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/templatemanage.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/templatemanage.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/add_drugs_dialog_list.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/add_drugs_dialog_list.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/newprescription_list.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/newprescription_list.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/prescription_template.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/prescription_template.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/inspection_create.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/inspection_create.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/review_check.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/review_check.xml"
-    },
-    {
         "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/item_exlist_group.xml",
         "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/item_exlist_group.xml"
+    },
+    {
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/review_create.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/review_create.xml"
     },
     {
         "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/drug_listview_report.xml",
         "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/drug_listview_report.xml"
     },
     {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/custom_groupwidget.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/custom_groupwidget.xml"
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/add_drugs_dialog_list.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/add_drugs_dialog_list.xml"
+    },
+    {
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/inspection_create.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/inspection_create.xml"
+    },
+    {
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/inspection_template.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/inspection_template.xml"
     },
     {
         "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_create_itemlist.xml",
         "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescription_create_itemlist.xml"
     },
     {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/inspection_check.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/inspection_check.xml"
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/doctor_information.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/doctor_information.xml"
+    },
+    {
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_examine_lv.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescription_examine_lv.xml"
     },
     {
         "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/inspection_listview.xml",
         "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/inspection_listview.xml"
     },
     {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_examine_lv.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/prescription_examine_lv.xml"
-    },
-    {
         "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/report_check.xml",
         "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/report_check.xml"
     },
     {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/review_listview.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/review_listview.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/report_check.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/report_check.xml"
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/login.xml"
     },
     {
         "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/review_check.xml",
@@ -312,156 +56,52 @@
         "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/inspection_query.xml"
     },
     {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/review_create.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/review_create.xml"
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_create.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescription_create.xml"
     },
     {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/inspection_template.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/inspection_template.xml"
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/templatemanage_list.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/templatemanage_list.xml"
     },
     {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/add_drugs_dialog.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/add_drugs_dialog.xml"
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/newprescription.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/newprescription.xml"
+    },
+    {
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_examine.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescription_examine.xml"
+    },
+    {
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/itemoftemplate.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/itemoftemplate.xml"
     },
     {
         "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/scroll_item.xml",
         "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/scroll_item.xml"
     },
     {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/inspection_create.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/inspection_create.xml"
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/review_listview.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/review_listview.xml"
+    },
+    {
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_examine_lvitem.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescription_examine_lvitem.xml"
+    },
+    {
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/examing_scroll_view.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/examing_scroll_view.xml"
     },
     {
         "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/custom_groupwidget.xml",
         "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/custom_groupwidget.xml"
     },
     {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescriptionqueryall.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/prescriptionqueryall.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/review_create.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/review_create.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/custom_groupwidget.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/custom_groupwidget.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_create.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/prescription_create.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/itemoftemplate.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/itemoftemplate.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/examiningprescription.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/examiningprescription.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/doctor_information.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/doctor_information.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/report_check.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/report_check.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/maininterface.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/maininterface.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/review_listview.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/review_listview.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/inspection_check.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/inspection_check.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/add_drugs_dialog.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/add_drugs_dialog.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/examing_scroll_view.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/examing_scroll_view.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/prescriptionqueryall.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/prescriptionqueryall.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/review_create.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/review_create.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/add_drugs_dialog_list.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/add_drugs_dialog_list.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/maininterface2.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/maininterface2.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/doctor_information.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/doctor_information.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/add_drugs_dialog.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/add_drugs_dialog.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/newprescription.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/newprescription.xml"
-    },
-    {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/login.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/login.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/report_query.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/report_query.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/drugs_list.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/drugs_list.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/add_drugs_dialog_list.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/add_drugs_dialog_list.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/examing_scroll_view.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/examing_scroll_view.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/inspection_listview.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/inspection_listview.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/doctor_information.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/doctor_information.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/templatemanage_list.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/templatemanage_list.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/prescription_create.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/prescription_create.xml"
-    },
-    {
         "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/examiningprescription.xml",
         "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/examiningprescription.xml"
     },
     {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_create_itemlist.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/prescription_create_itemlist.xml"
-    },
-    {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/templatemanage.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/templatemanage.xml"
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/maininterface2.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/maininterface2.xml"
     },
     {
         "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_template.xml",
@@ -472,35 +112,59 @@
         "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/register_layout.xml"
     },
     {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/inspection_query.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/inspection_query.xml"
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/report_query.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/report_query.xml"
+    },
+    {
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/report_create.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/report_create.xml"
+    },
+    {
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_template_lvgroup.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescription_template_lvgroup.xml"
+    },
+    {
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescriptionquery_lvitem.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescriptionquery_lvitem.xml"
     },
     {
         "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/review_query.xml",
         "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/review_query.xml"
     },
     {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/templatemanage.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/templatemanage.xml"
-    },
-    {
         "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/inspection_check.xml",
         "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/inspection_check.xml"
     },
     {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_examine_lvitem.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/prescription_examine_lvitem.xml"
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/maininterface.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/maininterface.xml"
+    },
+    {
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescription_query.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescription_query.xml"
+    },
+    {
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/drugs_list.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/drugs_list.xml"
+    },
+    {
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/prescriptionqueryall.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/prescriptionqueryall.xml"
     },
     {
         "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/add_drugs_dialog_item.xml",
         "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/add_drugs_dialog_item.xml"
     },
     {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/templatemanage_list.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest508/res/layout/templatemanage_list.xml"
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/add_drugs_dialog.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/add_drugs_dialog.xml"
     },
     {
-        "merged": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/build/intermediates/res/merged/debug/layout/item_exlist_group.xml",
-        "source": "/Users/kejund/AndroidStudioProjects/eclipse_xunyiwenyao_latest/res/layout/item_exlist_group.xml"
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/templatemanage.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/templatemanage.xml"
+    },
+    {
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/layout/newprescription_list.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/layout/newprescription_list.xml"
     }
 ]

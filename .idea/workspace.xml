@@ -9,7 +9,636 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93feb714-414d-4627-a2f8-36b19d9ce859" name="Default" comment="" />
+    <list default="true" id="93feb714-414d-4627-a2f8-36b19d9ce859" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-08-57-41-949.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-08-58-19-060.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-08-58-21-716.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-08-58-47-165.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-09-00-18-198.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-09-02-58-502.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-09-07-49-287.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-09-12-59-154.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-10-24-18-627.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-10-40-41-569.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-10-46-32-200.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-10-48-49-534.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-11-17-54-778.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-11-23-25-143.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-11-25-51-166.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-11-29-36-498.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-11-30-03-621.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-11-33-25-849.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-11-35-54-327.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-11-36-42-065.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-11-37-44-973.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-11-42-34-741.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-11-44-21-298.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-11-47-37-614.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-11-48-47-069.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-11-49-52-295.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-11-51-01-896.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-12-17-29-868.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-12-50-49-383.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-13-43-15-201.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-13-58-40-325.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-14-00-16-130.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-14-01-44-588.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-14-29-10-367.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-04-14-41-45-473.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-08-29-50-748.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-08-36-36-530.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-09-04-35-297.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-09-07-39-497.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-09-12-55-201.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-09-15-28-479.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-09-15-51-202.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-09-16-36-824.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-09-17-29-140.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-09-21-28-376.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-14-27-30-373.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-14-31-32-589.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-14-43-16-364.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-14-52-07-994.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-14-53-14-301.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-15-00-24-261.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-15-02-25-725.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-15-03-59-123.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-15-09-47-113.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-15-13-36-593.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-15-13-50-876.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-15-14-59-644.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-15-15-42-569.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-15-16-35-006.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-15-18-48-763.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-15-28-01-546.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-15-31-25-550.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-15-38-45-449.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-15-41-43-049.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-23-07-26-593.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-23-31-41-163.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-23-35-03-966.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-23-36-19-007.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-23-37-05-871.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-23-41-30-521.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-23-49-49-483.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-05-23-55-38-129.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-06-00-05-08-730.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-06-09-26-40-615.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-06-09-46-54-825.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-06-09-51-11-235.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-06-09-54-12-479.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-06-10-02-08-198.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-06-10-03-28-511.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-06-10-06-29-674.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-06-10-07-06-450.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-06-11-17-00-236.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-07-16-46-20-021.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-07-17-16-22-759.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-07-17-21-00-894.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-07-17-34-20-083.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-07-17-37-29-310.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-07-17-38-24-490.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-08-33-39-730.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-10-21-38-471.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-11-21-01-609.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-12-17-08-549.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-12-25-09-003.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-12-25-55-636.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-12-51-45-081.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-12-54-22-071.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-12-55-42-203.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-13-01-12-244.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-13-16-55-879.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-13-17-29-968.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-15-10-47-145.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-15-11-52-704.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-15-12-25-636.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-15-13-36-059.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-15-15-38-640.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-15-16-54-858.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-15-17-24-048.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-15-18-38-167.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-15-20-17-649.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-15-20-58-728.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-15-27-50-445.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-15-30-20-583.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-15-43-28-911.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-16-06-25-276.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-16-22-13-861.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-16-30-34-017.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-16-33-53-259.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-16-35-26-721.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-16-46-34-699.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-16-48-37-422.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-16-52-27-739.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-17-04-22-503.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-17-22-52-687.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-08-17-29-03-933.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-11-14-19-17-489.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-11-14-20-47-618.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-11-14-22-31-874.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-11-14-36-28-459.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-11-14-36-38-883.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-11-14-41-21-849.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-11-14-45-58-068.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-11-15-33-37-404.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-09-06-22-071.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-09-14-09-845.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-18-33-36-386.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-18-38-10-294.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-18-40-11-030.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-18-43-27-518.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-18-44-30-853.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-18-58-46-570.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-18-59-09-870.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-19-04-11-325.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-19-04-31-765.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-19-05-22-023.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-19-05-53-145.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-19-08-54-808.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-19-11-50-833.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-19-12-11-558.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-19-27-30-987.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-19-28-37-004.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-19-29-25-032.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-19-31-47-998.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-19-32-01-849.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-19-49-04-684.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-19-49-54-979.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-19-58-04-062.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-19-58-22-671.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-06-49-757.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-07-14-823.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-07-50-909.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-12-43-936.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-13-16-954.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-16-36-517.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-20-41-781.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-21-45-281.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-22-53-294.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-25-22-848.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-26-20-201.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-27-17-752.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-28-09-660.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-28-59-889.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-30-03-070.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-30-50-505.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-31-31-296.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-32-08-632.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-32-39-196.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-33-14-383.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-12-20-33-43-242.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-15-10-44-28-556.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-15-11-08-49-846.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-15-11-10-08-861.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-15-11-11-05-196.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-15-11-11-50-734.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-15-13-33-07-800.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-15-13-43-42-311.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-15-13-44-39-410.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-15-13-46-30-448.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-16-15-00-15-451.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-16-16-46-14-542.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-16-19-20-23-162.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-16-20-01-16-043.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-16-20-38-53-760.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-16-20-41-12-880.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/mockable-android-22.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/release/com/zll/xunyiwenyao/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/r/release/com/zll/xunyiwenyao/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/multi/values-v11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/multi/values-v14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/multi/values-w820dp-v13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/multi/values.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/single/anim.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/single/drawable-hdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/single/drawable-hdpi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/single/drawable-mdpi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/single/drawable-xhdpi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/single/drawable-xxhdpi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/single/layout.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/single/menu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/single/mipmap-hdpi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/single/mipmap-mdpi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/single/mipmap-xhdpi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/single/mipmap-xxhdpi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/release/single/mipmap-xxxhdpi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/R$array.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/R$mipmap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/AccessorMainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/AccessorMainActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/AccessorMainActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/AccessorMainActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/AccessorMainActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/AccessorMainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/DoctorInformationManageActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/DoctorInformationManageActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/DoctorInformationManageActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/InspectionCheckActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/InspectionCheckActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/InspectionCheckActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/InspectionCheckActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/InspectionCheckActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/InspectionCheckActivity$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/InspectionCheckActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/InspectionCreateActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/InspectionCreateActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/InspectionCreateActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/InspectionCreateActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/InspectionCreateActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/InspectionCreateActivity$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/InspectionCreateActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/InspectionQueryActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/InspectionQueryActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/LoginActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/LoginActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/LoginActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/MainActivity$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/MainActivity$11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/MainActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/MainActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/MainActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/MainActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/MainActivity$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/MainActivity$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/MainActivity$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/MainActivity$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateActivity$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateActivity$2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2$ViewHolderGroup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter$ListTextWatcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionExamineActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionExamineAllActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionExamineApprovedActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionExamineRefusedActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$ExamingScrollAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionQueryActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionQueryActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionQueryAllPrescriptionActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionQueryApprovedActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionQueryRefuseActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionQueryToApproveActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionQueryToSubmitActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionTemplateActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionTemplateActivity$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionTemplateActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionTemplateActivity$MyExpandableListViewAdapter3$ViewHolderGroup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionTemplateActivity$MyExpandableListViewAdapter3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionTemplateActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionTemplateMangeActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionTemplateMangeActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionTemplateMangeActivity$ScrollAdapter2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/PrescriptionTemplateMangeActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/RegisterActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/RegisterActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/RegisterActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/RegisterActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/RegisterActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/RegisterActivity$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/RegisterActivity$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/RegisterActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportCheckActivity$DrugListAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportCheckActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportCreateActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportCreateActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportCreateActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportCreateActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportCreateActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportCreateActivity$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportCreateActivity$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportCreateActivity$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportCreateActivity$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportCreateActivity$DrugListAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportCreateActivity$MyExpandableListViewAdapter2$ViewHolderGroup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportCreateActivity$MyExpandableListViewAdapter2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportCreateActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportQueryActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReportQueryActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReviewCheckActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReviewCreateActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReviewCreateActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReviewCreateActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReviewCreateActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReviewCreateActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReviewCreateActivity$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReviewCreateActivity$MyExpandableListViewAdapter2$ViewHolderGroup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReviewCreateActivity$MyExpandableListViewAdapter2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReviewCreateActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReviewQueryActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/ReviewQueryActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/activity/SimpleTextWatcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/adapter/InspectionAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/adapter/MyBaseExpandableListAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/adapter/MyBaseExpandableListAdapter$ViewHolderGroup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/adapter/MyBaseExpandableListAdapter$ViewHolderItem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/adapter/MyBaseExpandableListAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/adapter/PrescriptionExamineAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/adapter/PrescriptionQueryAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/adapter/ReportAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/adapter/ReviewAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/Doctor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/Drug.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/Inspection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/Patient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/Prescription.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/PrescriptionTemplate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/Prescription_drugmap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/RecipeTemplate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/Report.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/Review.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/Utils$DEPARTMENT.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/Utils$DOCTOR_TYPE.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/Utils$INSPECTION_STATUS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/Utils$REPORT_LEVEL.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/Utils$SEX.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/Utils$STATUS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/dbitem/Utils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/test/GsonTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/test/HTTPHelperTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/test/JsonHelperTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/test/MyTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/test/RealWebServiceTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/test/WebServiceTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/util/Group.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/util/HttpHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/util/Item.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/util/JsonHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/util/ListViewUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/util/MyListView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/util/TopBarView$onTitleBarClickListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/util/TopBarView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/view/PrescriptionCreateScrollView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/view/PrescriptionExamingPrescriptionScrollView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/view/PrescriptionTemplateScrollView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/webitem/ResponseItem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/webservice/DBWebService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/webservice/DoctorWebService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/webservice/DrugWebService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/webservice/InspectionWebService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/webservice/PatientWebService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/webservice/PrescriptionTemplateWebService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/webservice/PrescriptionWebService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/webservice/ReportWebService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/release/com/zll/xunyiwenyao/webservice/ReviewWebService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental-safeguard/release/tag.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/compileReleaseAidl/dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeReleaseShaders/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageRelease/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageRelease/file-input-save-data.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageRelease/zip-cache/qOKGCrSTcumhZ5nRhW9BHgaxFyA=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/manifests/full/release/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/release/android-support-v4_6ef8c47ae22781b76c8a9221d2dab8ae4fc14b92.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/release/gson-2.8.0_d3266daa0ca0141f2c49a8da2caa5f781e15c565.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/release/json-20160810_dc89f3aee16bdd3a090187f6a229d09f3911a7fe.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/release/json-lib-2.4-jdk15_903492523deea6a1fc95a2fea8a0319c92705a33.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/release/release_d20654360c0ab5d58375a02bcf3c707cd8f4c976.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/anim/slide_left_in.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi-v4/background_button_div.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi-v4/background_login.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi-v4/background_login_div.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi-v4/image2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi-v4/line_div.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi-v4/main_line_div.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi-v4/prescription_item_image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi-v4/prescription_query_bg_list_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi-v4/qq_edit_login.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi-v4/search_click.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi-v4/signmark.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi/add_drug_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi/back_page.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi/edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi/edit_normal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi/icn_trashcan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi/input_over.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi/item_picture.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi/ktv_line_div.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi/login_input.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi/search_normal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-hdpi/search_press.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-xxhdpi/add_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/drawable-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/add_drugs_dialog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/add_drugs_dialog_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/add_drugs_dialog_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/custom_groupwidget.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/doctor_information.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/drug_listview_report.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/drugs_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/examing_scroll_view.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/examiningprescription.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/inspection_check.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/inspection_create.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/inspection_listview.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/inspection_query.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/inspection_template.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/item_exlist_group.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/itemoftemplate.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/login.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/maininterface.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/maininterface2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/newprescription.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/newprescription_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/prescription_create.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/prescription_create_itemlist.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/prescription_examine.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/prescription_examine_lv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/prescription_examine_lvitem.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/prescription_query.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/prescription_template.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/prescription_template_lvgroup.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/prescriptionquery_lvitem.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/prescriptionqueryall.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/register_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/report_check.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/report_create.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/report_query.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/review_check.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/review_create.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/review_listview.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/review_query.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/scroll_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/templatemanage.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/layout/templatemanage_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/menu/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/values-v14/values-v14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/release/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/resources-release.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/buildId.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/buildId.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/buildId.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/outputs/apk/eclipse_xunyiwenyao_latest-debug.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-release-report.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/lint-results-release-fatal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/lint-results-release-fatal.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$10.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$6.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$2.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$8.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$9.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2$ViewHolderGroup.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2$ViewHolderGroup.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter$ListTextWatcher.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter$ListTextWatcher.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/webservice/PrescriptionWebService.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/webservice/PrescriptionWebService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$10.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$6.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$1.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$2.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$8.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$9.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2$ViewHolderGroup.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2$ViewHolderGroup.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter$ListTextWatcher.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter$ListTextWatcher.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/webservice/PrescriptionWebService.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/zll/xunyiwenyao/webservice/PrescriptionWebService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/android-support-v4_6ef8c47ae22781b76c8a9221d2dab8ae4fc14b92.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/android-support-v4_6ef8c47ae22781b76c8a9221d2dab8ae4fc14b92.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/debug_658f86de75e94d0bef3bccfb976c3a5a06a4b700.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/debug_658f86de75e94d0bef3bccfb976c3a5a06a4b700.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/gson-2.8.0_d3266daa0ca0141f2c49a8da2caa5f781e15c565.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/gson-2.8.0_d3266daa0ca0141f2c49a8da2caa5f781e15c565.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/json-20160810_dc89f3aee16bdd3a090187f6a229d09f3911a7fe.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/json-20160810_dc89f3aee16bdd3a090187f6a229d09f3911a7fe.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/json-lib-2.4-jdk15_903492523deea6a1fc95a2fea8a0319c92705a33.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/json-lib-2.4-jdk15_903492523deea6a1fc95a2fea8a0319c92705a33.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_2.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_4.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_6.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_7.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_8.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$10.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$6.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$1.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$2.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$8.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$9.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2$ViewHolderGroup.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2$ViewHolderGroup.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter$ListTextWatcher.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter$ListTextWatcher.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/webservice/PrescriptionWebService.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/webservice/PrescriptionWebService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/zll/xunyiwenyao/webservice/PrescriptionWebService.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/zll/xunyiwenyao/webservice/PrescriptionWebService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$10.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$6.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$1.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$2.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$8.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$9.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2$ViewHolderGroup.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2$ViewHolderGroup.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter$ListTextWatcher.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter$ListTextWatcher.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/apk/eclipse_xunyiwenyao_latest508-debug.apk" afterPath="$PROJECT_DIR$/build/outputs/apk/eclipse_xunyiwenyao_latest508-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v11.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v11.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v14.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v14.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/anim.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-mdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-mdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/menu.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/menu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-hdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-hdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-mdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-mdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-xhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-xhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-xxhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-xxhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-xxxhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-xxxhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/build/intermediates/restart-dex/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/buildId.txt" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/buildId.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse_xunyiwenyao_latest508.iml" afterPath="$PROJECT_DIR$/eclipse_xunyiwenyao_latest508.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.java" afterPath="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionTemplateWebService.java" afterPath="$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionTemplateWebService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionWebService.java" afterPath="$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionWebService.java" />
+    </list>
     <ignored path="eclipse_xunyiwenyao_latest.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -44,18 +673,8 @@
       <file leaf-file-name="DoctorWebService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/DoctorWebService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="215" column="0" selection-start-line="215" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InspectionCreateActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/InspectionCreateActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="60" column="59" selection-start-line="60" selection-start-column="59" selection-end-line="60" selection-end-column="59" />
+            <state relative-caret-position="225">
+              <caret line="41" column="83" selection-start-line="41" selection-start-column="83" selection-end-line="41" selection-end-column="83" />
               <folding />
             </state>
           </provider>
@@ -64,26 +683,9 @@
       <file leaf-file-name="RegisterActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/RegisterActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1065">
-              <caret line="252" column="30" selection-start-line="252" selection-start-column="16" selection-end-line="252" selection-end-column="30" />
-              <folding>
-                <element signature="e#2335#2738#0" expanded="true" />
-                <element signature="e#2737#2738#0" expanded="true" />
-                <element signature="e#3418#3426#0" expanded="true" />
-                <element signature="e#4397#4405#0" expanded="true" />
-                <element signature="e#5411#5419#0" expanded="true" />
-                <element signature="e#6345#6748#0" expanded="true" />
-                <element signature="e#6747#6748#0" expanded="true" />
-                <element signature="e#6975#7403#0" expanded="true" />
-                <element signature="e#7402#7403#0" expanded="true" />
-                <element signature="e#7532#7968#0" expanded="true" />
-                <element signature="e#7967#7968#0" expanded="true" />
-                <element signature="e#8155#8357#0" expanded="true" />
-                <element signature="e#8356#8357#0" expanded="true" />
-                <element signature="e#8398#8592#0" expanded="true" />
-                <element signature="e#8591#8592#0" expanded="true" />
-                <element signature="e#9813#9821#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="294" column="21" selection-start-line="285" selection-start-column="20" selection-end-line="294" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -91,19 +693,24 @@
       <file leaf-file-name="PrescriptionCreateMainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="179" column="57" selection-start-line="179" selection-start-column="57" selection-end-line="179" selection-end-column="57" />
-              <folding />
+            <state relative-caret-position="315">
+              <caret line="540" column="28" selection-start-line="540" selection-start-column="28" selection-end-line="541" selection-end-column="37" />
+              <folding>
+                <element signature="e#21102#25343#0" expanded="true" />
+                <element signature="e#25342#25343#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PatientWebService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PatientWebService.java">
+      <file leaf-file-name="PrescriptionWebService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionWebService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="207">
+              <caret line="172" column="8" selection-start-line="172" selection-start-column="8" selection-end-line="172" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,18 +718,8 @@
       <file leaf-file-name="PrescriptionTemplateWebService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionTemplateWebService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReportWebService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/ReportWebService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="119" column="9" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="9" />
+            <state relative-caret-position="297">
+              <caret line="144" column="19" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -1070,13 +1667,11 @@
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
         <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Report.java" />
         <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/adapter/ReportAdapter.java" />
-        <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/DoctorWebService.java" />
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/res/layout/inspection_listview.xml" />
         <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/adapter/InspectionAdapter.java" />
         <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/ReportWebService.java" />
         <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/ReviewWebService.java" />
-        <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionWebService.java" />
         <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Inspection.java" />
         <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/InspectionWebService.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
@@ -1095,21 +1690,23 @@
         <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/ReviewCreateActivity.java" />
         <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/ReviewQueryActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/login.xml" />
-        <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Doctor.java" />
         <option value="$PROJECT_DIR$/res/layout/register_layout.xml" />
         <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Utils.java" />
         <option value="$PROJECT_DIR$/res/layout/newprescription.xml" />
         <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/util/MyNumberPicker.java" />
         <option value="$PROJECT_DIR$/res/layout/inspection_create.xml" />
         <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/RegisterActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Doctor.java" />
+        <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/DoctorWebService.java" />
+        <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionWebService.java" />
+        <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionTemplateWebService.java" />
         <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="810" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -1136,12 +1733,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1222,7 +1816,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eclipse_xunyiwenyao_latest508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eclipse_xunyiwenyao_latest508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane />
       </pane>
     </panes>
   </component>
@@ -1240,6 +1851,7 @@
     <property name="ExportApk.SignV1" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/res/drawable-ldpi" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -1664,15 +2276,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="810" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47262248" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.471464" sideWeight="0.4914163" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28040057" sideWeight="0.5064695" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287841" sideWeight="0.50858366" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4279539" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32853025" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1680,7 +2292,7 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28040057" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28040057" sideWeight="0.4935305" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -1717,16 +2329,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/layout/inspection_listview.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-22/android.jar!/java/lang/String.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
@@ -1832,13 +2434,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionWebService.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionWebService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="229" column="28" selection-start-line="229" selection-start-column="28" selection-end-line="229" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/prescription_create.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -1937,13 +2532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/AccessorMainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/ReportCreateActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
@@ -1970,13 +2558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionTemplateActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -2012,14 +2593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Doctor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1033">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/newprescription.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -2040,14 +2613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/LoginActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1815">
-          <caret line="151" column="24" selection-start-line="151" selection-start-column="24" selection-end-line="151" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/util/MyNumberPicker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -2055,26 +2620,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/InspectionCreateActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="60" column="59" selection-start-line="60" selection-start-column="59" selection-end-line="60" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/ReportWebService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
+        <state relative-caret-position="1620">
           <caret line="119" column="9" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionTemplateWebService.java">
+    <entry file="file://$PROJECT_DIR$/eclipse_xunyiwenyao_latest508-release.apk">
+      <provider selected="true" editor-type-id="apk-viewer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/AccessorMainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        <state relative-caret-position="195">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/InspectionCreateActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="60" column="59" selection-start-line="60" selection-start-column="59" selection-end-line="60" selection-end-column="59" />
           <folding />
         </state>
       </provider>
@@ -2087,44 +2657,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/DoctorWebService.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/RegisterActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="215" column="0" selection-start-line="215" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
+        <state relative-caret-position="330">
+          <caret line="294" column="21" selection-start-line="285" selection-start-column="20" selection-end-line="294" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/RegisterActivity.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Doctor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1065">
-          <caret line="252" column="30" selection-start-line="252" selection-start-column="16" selection-end-line="252" selection-end-column="30" />
+        <state relative-caret-position="-133">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="155" column="72" selection-start-line="155" selection-start-column="58" selection-end-line="155" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/DoctorWebService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="41" column="83" selection-start-line="41" selection-start-column="83" selection-end-line="41" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionTemplateActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1635">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionWebService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="172" column="8" selection-start-line="172" selection-start-column="8" selection-end-line="172" selection-end-column="64" />
           <folding>
-            <element signature="e#2335#2738#0" expanded="true" />
-            <element signature="e#2737#2738#0" expanded="true" />
-            <element signature="e#3418#3426#0" expanded="true" />
-            <element signature="e#4397#4405#0" expanded="true" />
-            <element signature="e#5411#5419#0" expanded="true" />
-            <element signature="e#6345#6748#0" expanded="true" />
-            <element signature="e#6747#6748#0" expanded="true" />
-            <element signature="e#6975#7403#0" expanded="true" />
-            <element signature="e#7402#7403#0" expanded="true" />
-            <element signature="e#7532#7968#0" expanded="true" />
-            <element signature="e#7967#7968#0" expanded="true" />
-            <element signature="e#8155#8357#0" expanded="true" />
-            <element signature="e#8356#8357#0" expanded="true" />
-            <element signature="e#8398#8592#0" expanded="true" />
-            <element signature="e#8591#8592#0" expanded="true" />
-            <element signature="e#9813#9821#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionTemplateWebService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="144" column="19" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="179" column="57" selection-start-line="179" selection-start-column="57" selection-end-line="179" selection-end-column="57" />
-          <folding />
+        <state relative-caret-position="315">
+          <caret line="540" column="28" selection-start-line="540" selection-start-column="28" selection-end-line="541" selection-end-column="37" />
+          <folding>
+            <element signature="e#21102#25343#0" expanded="true" />
+            <element signature="e#25342#25343#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

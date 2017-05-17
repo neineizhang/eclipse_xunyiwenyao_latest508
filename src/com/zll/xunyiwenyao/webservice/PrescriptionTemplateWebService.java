@@ -100,7 +100,9 @@ public class PrescriptionTemplateWebService {
 	}
 
 
-	public static void addPrescriptionTemplate(PrescriptionTemplate item){
+	public static Map<String, String> addPrescriptionTemplate(PrescriptionTemplate item){
+		Map<String, String> map = new HashMap<String, String>();
+
 		String url = "http://222.29.100.155/b2b2c/api/mobile/recipe/addRecipeTemplate.do";
 		StringBuilder itemStr = new StringBuilder();
 		itemStr.append("template_name="+item.getName());
@@ -127,11 +129,20 @@ public class PrescriptionTemplateWebService {
 
 		///
 		try {
+			Map m = JsonHelper.toMap(result);
+			ResponseItem responditem = new ResponseItem();
+			responditem = (ResponseItem) JsonHelper.toJavaBean(responditem, m);
+			JSONObject jo = new JSONObject(result);
+			String retresult = jo.getString("result");
+			map.put("result",retresult);
+			String message = jo.getString("message");
+			map.put("message",message);
 			initDB();
 		} catch (JSONException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		return map;
 	}
 
 	public static void updatePrescriptionTemplate(PrescriptionTemplate item){

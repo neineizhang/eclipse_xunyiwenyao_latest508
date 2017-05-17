@@ -411,14 +411,36 @@ public class PrescriptionCreateMainActivity extends Activity {
 
 				Log.d("rxz", "003:" + prescription.getId());
 				if(modify == 0){
-					PrescriptionWebService.AddPrescription(prescription);
-				}else{
+//					PrescriptionWebService.AddPrescription(prescription);
+					Map<String, String> map = PrescriptionWebService.AddPrescription(prescription);
+					String result = map.get("result");
+					String message = map.get("message");
+					if(result.equals("1")){//注册成功
+						Toast.makeText(PrescriptionCreateMainActivity.this, "保存成功！",
+								Toast.LENGTH_SHORT).show();
+						finish();
+					}else{
+						Toast.makeText(PrescriptionCreateMainActivity.this, message,
+								Toast.LENGTH_SHORT).show();
+					}
+				}
+				else{
 	    			PrescriptionWebService.updatePrescription(prescription);
+//					String result = map.get("result");
+//					String message = map.get("message");
+//					if(result.equals("1")){//注册成功
+//						Toast.makeText(PrescriptionCreateMainActivity.this, "处方更新成功！",
+//								Toast.LENGTH_SHORT).show();
+//						finish();
+//					}else{
+//						Toast.makeText(PrescriptionCreateMainActivity.this, message,
+//								Toast.LENGTH_SHORT).show();
+//					}
 	     		};
 				//PrescriptionWebService.AddPrescription(prescription);
 
-				Toast.makeText(mContext, "SAVE SUCCESS", Toast.LENGTH_SHORT).show();
-				finish();
+//				Toast.makeText(mContext, "SAVE SUCCESS", Toast.LENGTH_SHORT).show();
+//				finish();
 				// }
 			}
 		});
@@ -504,9 +526,20 @@ public class PrescriptionCreateMainActivity extends Activity {
 					builder.setPositiveButton("确定", new DialogInterface.OnClickListener() {
 						public void onClick(DialogInterface dialog, int which) {
 							dialog.cancel();
-							PrescriptionTemplateWebService.addPrescriptionTemplate(prescriptionTemplate);
-							Toast.makeText(mContext, "SAVE SUCCESS", Toast.LENGTH_SHORT).show();
-							finish();
+							Map<String, String> map = PrescriptionTemplateWebService.addPrescriptionTemplate(prescriptionTemplate);
+							String result = map.get("result");
+							String message = map.get("message");
+							if(result.equals("1")){//注册成功
+								Toast.makeText(PrescriptionCreateMainActivity.this, "保存成功！",
+										Toast.LENGTH_SHORT).show();
+								finish();
+							}else{
+								Toast.makeText(PrescriptionCreateMainActivity.this, message,
+										Toast.LENGTH_SHORT).show();
+								finish();
+							}
+//							Toast.makeText(mContext, "SAVE SUCCESS", Toast.LENGTH_SHORT).show();
+//							finish();
 						}
 					});
 					builder.create().show();
@@ -592,21 +625,35 @@ public class PrescriptionCreateMainActivity extends Activity {
 
 					System.out.println("rxz++++++++++"+modify+"-"+prescription.getStatus());
 					if(modify == 0){
-						PrescriptionWebService.AddPrescription(prescription);
-						Prescription prescription_new = PrescriptionWebService.getPrescriptionByName(prescription_name);
-						prescription_new.setStatus(Utils.STATUS.COMMITED.ordinal());
-		    			PrescriptionWebService.updatePrescription(prescription_new);
+						Map<String, String> map = PrescriptionWebService.AddPrescription(prescription);
+						String result = map.get("result");
+						String message = map.get("message");
+						if(result.equals("1")){//注册成功
+							Prescription prescription_new = PrescriptionWebService.getPrescriptionByName(prescription_name);
+							prescription_new.setStatus(Utils.STATUS.COMMITED.ordinal());
+							PrescriptionWebService.updatePrescription(prescription_new);
+							Toast.makeText(PrescriptionCreateMainActivity.this, "处方提交成功！",
+									Toast.LENGTH_SHORT).show();
+							finish();
+						}else{
+							Toast.makeText(PrescriptionCreateMainActivity.this, message,
+									Toast.LENGTH_SHORT).show();
+						}
+
+
+
 					}else{
 		    			PrescriptionWebService.updatePrescription(prescription);
+
 		     		};
 					//PrescriptionWebService.AddPrescription(prescription);
 
-					Toast.makeText(mContext, "SAVE SUCCESS", Toast.LENGTH_SHORT).show();
-					finish();
+//					Toast.makeText(mContext, "SAVE SUCCESS", Toast.LENGTH_SHORT).show();
+//					finish();
 				}
 			}
 		});
-		
+
 		delete.setOnClickListener(new OnClickListener() {
 			
 			@Override

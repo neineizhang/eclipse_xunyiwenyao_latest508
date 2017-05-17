@@ -3,6 +3,7 @@ package com.zll.xunyiwenyao.webservice;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -167,7 +168,9 @@ public class PrescriptionWebService {
 	}
 
     
-	public static void AddPrescription(Prescription item){
+	public static Map<String, String> AddPrescription(Prescription item){
+//		下面一行为新增加
+		Map<String, String> map = new HashMap<String, String>();
 
     	String url = "http://222.29.100.155/b2b2c/api/mobile/recipe/addRecipe.do";
     	StringBuilder itemStr = new StringBuilder();
@@ -202,9 +205,19 @@ public class PrescriptionWebService {
     	System.out.println(itemStr.toString());
     	String result = HttpHelper.sendPost(url, itemStr.toString());
     	System.out.println(result);
-    	
+
+
+//		获取后台返回信息
     	/// 
     	try {
+			Map m = JsonHelper.toMap(result);
+			ResponseItem responditem = new ResponseItem();
+			responditem = (ResponseItem) JsonHelper.toJavaBean(responditem, m);
+			JSONObject jo = new JSONObject(result);
+			String retresult = jo.getString("result");
+			map.put("result",retresult);
+			String message = jo.getString("message");
+			map.put("message",message);
 			initDB();
 		} catch (JSONException e) {
 			// TODO Auto-generated catch block
@@ -220,9 +233,12 @@ public class PrescriptionWebService {
 //		}else{
 //			prescriptionlist.set(prescriptionlist.indexOf(prescription_inDB), item);
 //		}
+		return  map;
 	}
 	
 	public static void updatePrescription(Prescription item){
+		Map<String, String> map = new HashMap<String, String>();
+
 		String url = "http://222.29.100.155/b2b2c/api/mobile/recipe/updateRecpice.do";
     	StringBuilder itemStr = new StringBuilder();
     	itemStr.append("recipe_id="+item.getId());
@@ -256,6 +272,8 @@ public class PrescriptionWebService {
     	System.out.println(itemStr.toString());
     	String result = HttpHelper.sendPost(url, itemStr.toString());
     	System.out.println(result);
+		//获取注册未审核功能
+
     	
     	/// 
     	try {
@@ -268,6 +286,7 @@ public class PrescriptionWebService {
 //		Prescription presciption = getPrescriptionByName(item.getName());
 //    	int index = prescriptionlist.indexOf(presciption);
 //    	prescriptionlist.set(index, item);
+//		return  map;
 	}
 
 	public static void delPrescription(Prescription item){
