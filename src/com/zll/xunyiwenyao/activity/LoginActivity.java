@@ -42,7 +42,7 @@ public class LoginActivity extends Activity {
 	private Button btn_register;
 	private SharedPreferences sp;
 	private SharedPreferences.Editor ed;
-
+    private int ischecked;
 
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
@@ -157,6 +157,10 @@ public class LoginActivity extends Activity {
 						
 						if (islogin != null) {
 							Utils.LOGIN_DOCTOR = islogin;
+							ischecked =islogin.getProfState() ;
+							if (ischecked ==0){Toast.makeText(LoginActivity.this, "管理员正在审核您的身份，请耐心等待", Toast.LENGTH_SHORT).show();}
+							else if(ischecked ==1)
+							{
 							ed.putString("username", name);
 							ed.putString("password", pwd);
 							ed.putInt("sex",Utils.DOCTOR_TYPE.DOCTOR.ordinal());
@@ -164,7 +168,9 @@ public class LoginActivity extends Activity {
 							ed.commit();
 							Intent i=new Intent(LoginActivity.this,MainActivity.class);
 							startActivity(i);
-							finish();
+							finish();}
+							else if(ischecked==2)
+							{Toast.makeText(LoginActivity.this,"对不起，管理员没有通过您的身份验证", Toast.LENGTH_SHORT).show();}
 						} else {
 							Toast.makeText(LoginActivity.this, "登陆失败！", Toast.LENGTH_SHORT).show();
 							login_name.setText(null);
@@ -179,16 +185,22 @@ public class LoginActivity extends Activity {
 						
 						if (islogin != null) {
 							Utils.LOGIN_DOCTOR = islogin;
-							//以键值对的显示将用户名和密码保存到sp中
-							ed.putString("username", name);
-							ed.putString("password", pwd);
-							ed.putInt("sex",Utils.DOCTOR_TYPE.ACCESSOR.ordinal());
-							//提交用户名和密码
-							ed.commit();
-							Intent i=new Intent(LoginActivity.this,AccessorMainActivity.class);
-							startActivity(i);
-							finish();
-						} else {
+							ischecked =islogin.getProfState() ;
+							if (ischecked ==0){Toast.makeText(LoginActivity.this, "管理员正在审核您的身份，请耐心等待", Toast.LENGTH_SHORT).show();}
+							else if(ischecked ==1) {
+								//以键值对的显示将用户名和密码保存到sp中
+								ed.putString("username", name);
+								ed.putString("password", pwd);
+								ed.putInt("sex", Utils.DOCTOR_TYPE.ACCESSOR.ordinal());
+								//提交用户名和密码
+								ed.commit();
+								Intent i = new Intent(LoginActivity.this, AccessorMainActivity.class);
+								startActivity(i);
+								finish();
+							}
+							else if(ischecked==2)
+							{Toast.makeText(LoginActivity.this,"对不起，管理员没有通过您的身份验证", Toast.LENGTH_SHORT).show();}
+					} else {
 							Toast.makeText(LoginActivity.this, "登陆失败！", Toast.LENGTH_SHORT).show();
 							login_name.setText(null);
 							login_pwd.setText(null);

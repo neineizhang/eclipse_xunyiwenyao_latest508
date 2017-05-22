@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/menu/main.xml"
+        "merged": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/res/menu/main.xml"
+    },
+    {
+        "merged": "/Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/res/menu/main.xml"
     }
 ]

@@ -1,187 +1,187 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:2:1-79:12
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:2:1-79:12
 	package
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:3:5-34
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:3:5-34
 	android:versionName
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml
-		INJECTED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:5:5-30
+		INJECTED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml
+		INJECTED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml
-		INJECTED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:4:5-28
+		INJECTED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml
+		INJECTED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:2:11-69
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:7:5-9:41
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:9:9-38
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:9:9-38
 	android:minSdkVersion
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:8:9-35
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:8:9-35
 uses-permission#android.permission.INTERNET
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:11:5-67
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:11:22-64
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:11:22-64
 application
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:13:5-75:19
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:13:5-75:19
 	android:label
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:16:9-41
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:16:9-41
 	android:allowBackup
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:14:9-35
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:14:9-35
 	android:icon
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:15:9-43
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:15:9-43
 	android:persistent
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:17:41-67
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:17:41-67
 	android:theme
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:17:9-40
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:17:9-40
 activity#com.zll.xunyiwenyao.activity.LoginActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:18:9-31:20
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:18:9-31:20
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:19:13-70
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:19:13-70
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:20:13-23:29
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:21:17-69
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:21:25-66
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:22:17-77
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:22:27-74
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:22:27-74
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:24:13-30:29
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:24:13-30:29
 action#android.intent.action.VIEW
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:25:17-68
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:25:17-68
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:25:25-66
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:25:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:26:17-75
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:26:17-75
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:26:27-73
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:26:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:27:17-77
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:27:27-75
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:27:27-75
 data
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:28:17-29:47
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:28:17-29:47
 	android:host
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:28:23-57
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:28:23-57
 	android:scheme
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:29:17-45
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:29:17-45
 activity#com.zll.xunyiwenyao.activity.MainActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:34:9-42:20
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:34:9-42:20
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:34:19-75
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:34:19-75
 activity#com.zll.xunyiwenyao.activity.PrescriptionCreateActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:43:9-101
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:43:9-101
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:43:19-89
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:43:19-89
 activity#com.zll.xunyiwenyao.activity.PrescriptionCreateMainActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:44:9-105
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:44:9-105
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:44:19-93
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:44:19-93
 activity#com.zll.xunyiwenyao.activity.PrescriptionExamineActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:45:9-102
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:45:9-102
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:45:19-90
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:45:19-90
 activity#com.zll.xunyiwenyao.activity.PrescriptionQueryActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:46:9-100
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:46:9-100
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:46:19-88
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:46:19-88
 activity#com.zll.xunyiwenyao.activity.PrescriptionTemplateActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:47:9-103
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:47:9-103
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:47:19-91
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:47:19-91
 activity#com.zll.xunyiwenyao.activity.PrescriptionTemplateMangeActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:48:9-108
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:48:9-108
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:48:19-96
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:48:19-96
 activity#com.zll.xunyiwenyao.activity.PrescriptionQueryAllPrescriptionActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:49:9-115
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:49:9-115
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:49:19-103
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:49:19-103
 activity#com.zll.xunyiwenyao.activity.PrescriptionQueryApprovedActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:50:9-108
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:50:9-108
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:50:19-96
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:50:19-96
 activity#com.zll.xunyiwenyao.activity.PrescriptionQueryRefuseActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:51:9-106
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:51:9-106
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:51:19-94
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:51:19-94
 activity#com.zll.xunyiwenyao.activity.PrescriptionQueryToApproveActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:52:9-109
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:52:9-109
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:52:19-97
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:52:19-97
 activity#com.zll.xunyiwenyao.activity.PrescriptionQueryToSubmitActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:53:9-108
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:53:9-108
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:53:19-96
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:53:19-96
 activity#com.zll.xunyiwenyao.activity.PrescriptionExamineRefusedActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:54:9-109
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:54:9-109
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:54:19-97
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:54:19-97
 activity#com.zll.xunyiwenyao.activity.PrescriptionExamineAllActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:55:3-99
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:55:3-99
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:55:13-87
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:55:13-87
 activity#com.zll.xunyiwenyao.activity.PrescriptionExamineApprovedActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:56:3-104
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:56:3-104
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:56:13-92
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:56:13-92
 activity#com.zll.xunyiwenyao.activity.PrescriptionExamingPrescriptionActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:57:3-108
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:57:3-108
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:57:13-96
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:57:13-96
 activity#com.zll.xunyiwenyao.activity.InspectionCreateActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:59:9-99
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:59:9-99
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:59:19-87
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:59:19-87
 activity#com.zll.xunyiwenyao.activity.InspectionQueryActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:60:9-98
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:60:9-98
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:60:19-86
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:60:19-86
 activity#com.zll.xunyiwenyao.activity.ReviewCreateActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:61:9-95
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:61:9-95
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:61:19-83
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:61:19-83
 activity#com.zll.xunyiwenyao.activity.ReportCreateActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:62:9-95
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:62:9-95
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:62:19-83
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:62:19-83
 activity#com.zll.xunyiwenyao.activity.RegisterActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:63:9-91
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:63:9-91
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:63:19-79
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:63:19-79
 activity#com.zll.xunyiwenyao.activity.InspectionCheckActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:64:9-98
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:64:9-98
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:64:19-86
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:64:19-86
 activity#com.zll.xunyiwenyao.activity.DoctorInformationManageActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:65:9-106
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:65:9-106
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:65:19-94
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:65:19-94
 activity#com.zll.xunyiwenyao.activity.AccessorMainActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:66:9-95
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:66:9-95
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:66:19-83
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:66:19-83
 activity#com.zll.xunyiwenyao.activity.ReviewQueryActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:67:9-94
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:67:9-94
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:67:19-82
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:67:19-82
 activity#com.zll.xunyiwenyao.activity.ReviewCheckActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:68:9-94
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:68:9-94
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:68:19-82
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:68:19-82
 activity#com.zll.xunyiwenyao.activity.ReportQueryActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:69:9-94
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:69:9-94
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:69:19-82
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:69:19-82
 activity#com.zll.xunyiwenyao.activity.ReportCheckActivity
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:70:9-94
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:70:9-94
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:70:19-82
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:70:19-82
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:77:5-80
+ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:77:5-80
 	android:name
-		ADDED from /Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/AndroidManifest.xml:77:22-78
+		ADDED from /Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/AndroidManifest.xml:77:22-78

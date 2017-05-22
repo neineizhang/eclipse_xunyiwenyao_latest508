@@ -12,17 +12,17 @@
 	<LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical" 
+        android:orientation="vertical"
         android:background="@drawable/background_login">
 
-   		<com.zll.xunyiwenyao.util.TopBarView  
-        android:id="@+id/topbar"  
-        android:layout_width="wrap_content"  
-        android:layout_height="wrap_content"  
-        custom:titleText="开具基本检查单"   
-        custom:titleSize="6sp"   
-        custom:titleColor="@android:color/white"   
-        custom:leftBtn="@drawable/back_page"   
+   		<com.zll.xunyiwenyao.util.TopBarView
+        android:id="@+id/topbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        custom:titleText="开具基本检查单"
+        custom:titleSize="6sp"
+        custom:titleColor="@android:color/white"
+        custom:leftBtn="@drawable/back_page"
         custom:rightBtn="@drawable/edit_normal" />
 
     </LinearLayout>
@@ -69,13 +69,13 @@
 			android:layout_height="wrap_content" />
 
 	</LinearLayout>
-   
-    <View  android:layout_height="1px" 
+
+    <View  android:layout_height="1px"
            android:layout_width="match_parent"
            android:background="#BFBFBF"
 
     />
-    
+
     <!--病人基本信息 -->
 	<LinearLayout
 		android:layout_width="match_parent"
@@ -148,7 +148,8 @@
 					android:id="@+id/age_text"
 					android:layout_width="0dp"
 					android:layout_height="35dp"
-					android:layout_weight="3"/>
+					android:layout_weight="3"
+					android:descendantFocusability="blocksDescendants"/>
 					<!--android:inputType="number"/>-->
 
 			</LinearLayout>
@@ -271,11 +272,11 @@
 	        	android:background="#B0B0B0"
 	        	android:textSize="18sp"
 	            android:layout_weight="2" />
-        
-	        <View  android:layout_height="1px" 
+
+	        <View  android:layout_height="1px"
 	           android:layout_width="match_parent"
-	           android:background="#BFBFBF"/>    
-	           
+	           android:background="#BFBFBF"/>
+
 	        <EditText
 		        android:id="@+id/inspection_location_text"
 		        android:layout_width="match_parent"
@@ -283,7 +284,7 @@
 		        android:ems="10"
 		        android:inputType="textMultiLine">
 			  </EditText>
-	    </LinearLayout> 
+	    </LinearLayout>
 	    <!-- 其他信息 -->
 	         <LinearLayout
 	        android:layout_width="match_parent"
@@ -300,28 +301,28 @@
 	        	android:background="#B0B0B0"
 	        	android:textSize="18sp"
 	            android:layout_weight="2" />
-        
-	        <View  android:layout_height="1px" 
+
+	        <View  android:layout_height="1px"
 	           android:layout_width="match_parent"
-	           android:background="#BFBFBF"/>    
+	           android:background="#BFBFBF"/>
 
 				 <LinearLayout
 	            android:layout_width="match_parent"
 	            android:layout_height="wrap_content"
 	            android:layout_weight="1" >
-	
+
 	            <TextView
 	                android:id="@+id/date_view"
 	                android:layout_width="0dp"
 	                android:layout_height="wrap_content"
 	                android:text="申请时间"
 	                android:layout_weight="1.5"/>
-	             <View  
-			    	android:layout_width="1px" 
+	             <View
+			    	android:layout_width="1px"
 			    	android:layout_height="match_parent"
 			    	android:background="#BFBFBF"
 			    	android:layout_gravity="center_horizontal"/>
-	
+
 	            <EditText
 	                android:id="@+id/date_text"
 	                android:layout_width="wrap_content"
@@ -329,7 +330,7 @@
 	                android:layout_weight="3"
 	                android:inputType="date"/>
 
-	
+
 	        </LinearLayout>
 
 
@@ -362,43 +363,43 @@
 						 android:enabled="false"/>
 
 				 </LinearLayout>
-	        <View  android:layout_height="1px" 
+	        <View  android:layout_height="1px"
 	           android:layout_width="match_parent"
-	           android:background="#BFBFBF"/>    
+	           android:background="#BFBFBF"/>
 
 	        <LinearLayout
 	            android:layout_width="match_parent"
 	            android:layout_height="wrap_content"
 	            android:layout_weight="1" >
-	
+
 	            <TextView
 	                android:id="@+id/comment_view"
 	                android:layout_width="0dp"
 	                android:layout_height="wrap_content"
-	                android:text="备注" 
+	                android:text="备注"
 	                android:layout_weight="1"/>
-	             <View  
-			    	android:layout_width="1px" 
+	             <View
+			    	android:layout_width="1px"
 			    	android:layout_height="match_parent"
 			    	android:background="#BFBFBF"
 			    	android:layout_gravity="center_horizontal"/>
-	
+
 	            <EditText
 	                android:id="@+id/comment_text"
 	                android:layout_width="wrap_content"
 	                android:layout_height="wrap_content"
 	                android:layout_weight="3" />
-	
+
 	        </LinearLayout>
-	    </LinearLayout>  
-	    
+	    </LinearLayout>
+
 <!-- 按钮 -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content" >
-	        
 
-         
+
+
          <Button
             android:id="@+id/button_save"
             android:layout_width="wrap_content"

@@ -115,6 +115,7 @@ public class PrescriptionExamingPrescriptionActivity extends Activity {
 		            int patient_age = prescription.getPatient().getAge();
 		            String patient_sex =prescription.getPatient().getSex()==0?"男":"女";
 		            String doctor_name=prescription.getDoctor().getRealName().toString();
+//					String checker_name=prescription.getChecker().getRealName().toString();
 		            String  prescription_date = prescription.getDate().toString();
 		            String clinical_diagnosis = prescription.getClinical_diagnosis().toString();
 		            
@@ -126,7 +127,7 @@ public class PrescriptionExamingPrescriptionActivity extends Activity {
 					examing_prescription_data_et.setText(prescription_date);
 					examing_clinical_diagnosis_text.setText(clinical_diagnosis);
 					
-					if(Utils.LOGIN_DOCTOR.getType()==0 && prescription.getChecker()==null){
+					if(Utils.LOGIN_DOCTOR.getType()==1 && prescription.getChecker()==null){
 						examing_checker_name_et.setText(Utils.LOGIN_DOCTOR.getRealName().toString());
 					}
 					else if(prescription.getChecker()!=null){

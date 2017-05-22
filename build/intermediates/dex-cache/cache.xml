@@ -2,94 +2,40 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="33e80a02becefd8daf05ac3cd73e209213be3912">
-        <dex dex="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c87f7c7ccfb22a91f052338754aa64d7a0f982f8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/libs/json-20160810.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aca5eb39e2a12fddd6c472b240afe9ebea3a6733">
-        <dex dex="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/json-20160810_dc89f3aee16bdd3a090187f6a229d09f3911a7fe/classes.dex" />
-    </item>
-    <item
         is-multidex="false"
-        jar="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/libs/gson-2.8.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
-        <dex dex="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/pre-dexed/debug/gson-2.8.0_d3266daa0ca0141f2c49a8da2caa5f781e15c565.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_125445eaca9d13e1ffdd83296c69377e261a4d8c/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/libs/json-lib-2.4-jdk15.jar"
+        jar="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/libs/json-lib-2.4-jdk15.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="136743e0d12df4e785e62b48618cee169b2ae546">
-        <dex dex="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/pre-dexed/debug/json-lib-2.4-jdk15_903492523deea6a1fc95a2fea8a0319c92705a33.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/libs/json-lib-2.4-jdk15.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="136743e0d12df4e785e62b48618cee169b2ae546">
-        <dex dex="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/json-lib-2.4-jdk15_903492523deea6a1fc95a2fea8a0319c92705a33/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/libs/gson-2.8.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
-        <dex dex="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.8.0_d3266daa0ca0141f2c49a8da2caa5f781e15c565/classes.dex" />
+        <dex dex="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/build/intermediates/pre-dexed/debug/json-lib-2.4-jdk15_6a467b718db71d148d723bf8e88b0d919714f0ad.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/libs/android-support-v4.jar"
+        jar="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/libs/gson-2.8.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="996044513ad111bbc3ad4cae2516144ac73daa4f">
-        <dex dex="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/pre-dexed/debug/android-support-v4_6ef8c47ae22781b76c8a9221d2dab8ae4fc14b92.jar" />
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/build/intermediates/pre-dexed/debug/gson-2.8.0_5de9ab5bf0af7f60bef63cf12362108b8d1224c8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/libs/json-20160810.jar"
+        jar="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/libs/json-20160810.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="aca5eb39e2a12fddd6c472b240afe9ebea3a6733">
-        <dex dex="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/pre-dexed/debug/json-20160810_dc89f3aee16bdd3a090187f6a229d09f3911a7fe.jar" />
+        <dex dex="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/build/intermediates/pre-dexed/debug/json-20160810_c7bbabe8d3cc43b28a373053aed8b68bb55ff7de.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/libs/android-support-v4.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/libs/android-support-v4.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="996044513ad111bbc3ad4cae2516144ac73daa4f">
-        <dex dex="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_6ef8c47ae22781b76c8a9221d2dab8ae4fc14b92/classes.dex" />
+        <dex dex="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/build/intermediates/pre-dexed/debug/android-support-v4_cc41437156cfa048e0259b0a7fe029254ba3abba.jar" />
     </item>
 
 </items>

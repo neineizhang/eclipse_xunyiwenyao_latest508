@@ -107,6 +107,7 @@ public class PrescriptionWebService {
         	int department = 0;//////?
         	Doctor doctor = DoctorWebService.getDoctorByID(jsonobj.getInt("creator_id"));
         	Doctor checker = null;
+//			Doctor checker = DoctorWebService.getDoctorByID(jsonobj.getInt("reviewer_id"));
         	if(!jsonobj.get("reviewer_id").toString().equals("null")){
         		checker = DoctorWebService.getDoctorByID(jsonobj.getInt("reviewer_id"));
         	}
@@ -210,9 +211,9 @@ public class PrescriptionWebService {
 //		获取后台返回信息
     	/// 
     	try {
-			Map m = JsonHelper.toMap(result);
-			ResponseItem responditem = new ResponseItem();
-			responditem = (ResponseItem) JsonHelper.toJavaBean(responditem, m);
+//			Map m = JsonHelper.toMap(result);
+//			ResponseItem responditem = new ResponseItem();
+//			responditem = (ResponseItem) JsonHelper.toJavaBean(responditem, m);
 			JSONObject jo = new JSONObject(result);
 			String retresult = jo.getString("result");
 			map.put("result",retresult);
@@ -238,12 +239,20 @@ public class PrescriptionWebService {
 	
 	public static void updatePrescription(Prescription item){
 		Map<String, String> map = new HashMap<String, String>();
-
+//		System.out.println("checker_id :hahahahahahah"+item.getChecker().getId());
 		String url = "http://222.29.100.155/b2b2c/api/mobile/recipe/updateRecpice.do";
     	StringBuilder itemStr = new StringBuilder();
     	itemStr.append("recipe_id="+item.getId());
     	itemStr.append("&recipe_name="+item.getName());
-    	itemStr.append("&creator_id="+Utils.LOGIN_DOCTOR.getId());
+
+    	itemStr.append("&creator_id="+item.getDoctor().getId());
+		System.out.println("lalala123->");
+		System.out.println("lalala567->"+item.getChecker()== null);
+		System.out.println("lalalatyu->");
+		if(item.getChecker()!= null){
+			itemStr.append("&reviewer_id="+item.getChecker().getId());
+			System.out.println("test518"+item.getChecker().getId());
+		}
     	itemStr.append("&user_name="+item.getPatient().getName());
     	itemStr.append("&user_age="+item.getPatient().getAge());
     	itemStr.append("&user_sex="+item.getPatient().getSex());

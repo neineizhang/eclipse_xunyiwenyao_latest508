@@ -426,6 +426,8 @@ public class PrescriptionCreateMainActivity extends Activity {
 				}
 				else{
 	    			PrescriptionWebService.updatePrescription(prescription);
+					Toast.makeText(PrescriptionCreateMainActivity.this, "保存成功！",	Toast.LENGTH_SHORT).show();
+					finish();
 //					String result = map.get("result");
 //					String message = map.get("message");
 //					if(result.equals("1")){//注册成功
@@ -628,7 +630,7 @@ public class PrescriptionCreateMainActivity extends Activity {
 						Map<String, String> map = PrescriptionWebService.AddPrescription(prescription);
 						String result = map.get("result");
 						String message = map.get("message");
-						if(result.equals("1")){//注册成功
+						if(result.equals("1")){//
 							Prescription prescription_new = PrescriptionWebService.getPrescriptionByName(prescription_name);
 							prescription_new.setStatus(Utils.STATUS.COMMITED.ordinal());
 							PrescriptionWebService.updatePrescription(prescription_new);
@@ -644,7 +646,8 @@ public class PrescriptionCreateMainActivity extends Activity {
 
 					}else{
 		    			PrescriptionWebService.updatePrescription(prescription);
-
+						Toast.makeText(mContext, "提交成功", Toast.LENGTH_SHORT).show();
+						finish();
 		     		};
 					//PrescriptionWebService.AddPrescription(prescription);
 

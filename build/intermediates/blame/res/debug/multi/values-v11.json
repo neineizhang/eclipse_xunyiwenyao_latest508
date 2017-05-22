@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "outputFile": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,33 @@
                     "endOffset": 187
                 },
                 "from": {
-                    "file": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/res/values-v11/styles.xml",
+                    "file": "/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 317
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/Volumes/anotherdisk/内内毕业/eclipse_xunyiwenyao_latest508 2/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

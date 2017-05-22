@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508/build-types/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/build-types/debug/shaders"/></dataSet></merger>

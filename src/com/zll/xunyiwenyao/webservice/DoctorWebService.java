@@ -75,7 +75,8 @@ public class DoctorWebService {
                     jsonobj.getString("title"),
                     jsonobj.getString("department"),
                     jsonobj.getString("goodAt"),
-                    jsonobj.getString("profile"));
+                    jsonobj.getString("profile"),
+                    jsonobj.getInt("profState"));
 
         	doctorlist.add(doctor);
         	System.out.println("success add:"+ JsonHelper.toJSON(doctor));

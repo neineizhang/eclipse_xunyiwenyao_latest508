@@ -75,14 +75,14 @@
                 android:id="@+id/login_doctor_select1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="  执业医生"
+                android:text="  执业医师"
                 android:checked="true"/>
 
             <RadioButton
                 android:id="@+id/login_doctor_select2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="  审核医生" />
+                android:text="  执业药师" />
 
 
         </RadioGroup>

@@ -14,14 +14,14 @@
             android:textColor="@android:color/black" android:textSize="16.0sp"
             android:singleLine="true" android:gravity="center"
             android:layout_width="150.0dip" android:layout_height="wrap_content"></TextView>
-<TextView android:id="@+id/drugs_list_item3" android:text="药品规格"
+<TextView android:id="@+id/drugs_list_item3" android:text="药品简称"
             android:textSize="16.0sp" android:singleLine="true" android:gravity="center"
             android:layout_width="150.0dip" android:layout_height="wrap_content"></TextView>
 <TextView android:id="@+id/drugs_list_item4" android:text="药品数量"
             android:textColor="@android:color/black" android:textSize="16.0sp"
             android:singleLine="true" android:gravity="center"
             android:layout_width="150.0dip" android:layout_height="wrap_content"></TextView>
-<TextView android:id="@+id/drugs_list_item5" android:text="药品价格"
+<TextView android:id="@+id/drugs_list_item5" android:text="药品规格"
             android:textSize="16.0sp" android:singleLine="true" android:gravity="center"
             android:layout_width="150.0dip" android:layout_height="wrap_content"></TextView>
 <TextView android:id="@+id/drugs_list_item6" android:text="备注"
