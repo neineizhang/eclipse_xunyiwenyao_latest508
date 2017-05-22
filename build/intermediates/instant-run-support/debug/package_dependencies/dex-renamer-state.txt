@@ -1,13 +1,13 @@
-#Sun May 21 15:57:23 CST 2017
-renamed.3=classes.dex
-renamed.2=classes3.dex
-renamed.1=classes2.dex
-renamed.0=classes4.dex
-base.3=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_cc41437156cfa048e0259b0a7fe029254ba3abba
-base.2=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/build/intermediates/transforms/dex/debug/folders/1000/2/json-20160810_c7bbabe8d3cc43b28a373053aed8b68bb55ff7de
-base.1=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.8.0_5de9ab5bf0af7f60bef63cf12362108b8d1224c8
-base.0=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/build/intermediates/transforms/dex/debug/folders/1000/2/json-lib-2.4-jdk15_6a467b718db71d148d723bf8e88b0d919714f0ad
-file.3=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_cc41437156cfa048e0259b0a7fe029254ba3abba/classes.dex
-file.2=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/build/intermediates/transforms/dex/debug/folders/1000/2/json-20160810_c7bbabe8d3cc43b28a373053aed8b68bb55ff7de/classes.dex
-file.1=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.8.0_5de9ab5bf0af7f60bef63cf12362108b8d1224c8/classes.dex
-file.0=/Users/neinei/workspace/实验室/安卓项目/eclipse_xunyiwenyao_latest508 2/build/intermediates/transforms/dex/debug/folders/1000/2/json-lib-2.4-jdk15_6a467b718db71d148d723bf8e88b0d919714f0ad/classes.dex
+#Tue May 23 00:26:23 CST 2017
+renamed.3=classes3.dex
+renamed.2=classes2.dex
+renamed.1=classes4.dex
+renamed.0=classes.dex
+base.3=/Volumes/anotherdisk/neinei/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/json-20160810_0619f793e195b8cfbb5771610807dc3bd424df2e
+base.2=/Volumes/anotherdisk/neinei/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.8.0_b90d89234f4a9dc0f3cb9d476ddf402357455eb5
+base.1=/Volumes/anotherdisk/neinei/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/json-lib-2.4-jdk15_456fc772f7dbf34a0706cb2fbd2e32a8bf1e38ad
+base.0=/Volumes/anotherdisk/neinei/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_14420a1b8ffcba212bb8513ea902eb018456c1b6
+file.3=/Volumes/anotherdisk/neinei/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/json-20160810_0619f793e195b8cfbb5771610807dc3bd424df2e/classes.dex
+file.2=/Volumes/anotherdisk/neinei/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.8.0_b90d89234f4a9dc0f3cb9d476ddf402357455eb5/classes.dex
+file.1=/Volumes/anotherdisk/neinei/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/json-lib-2.4-jdk15_456fc772f7dbf34a0706cb2fbd2e32a8bf1e38ad/classes.dex
+file.0=/Volumes/anotherdisk/neinei/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_14420a1b8ffcba212bb8513ea902eb018456c1b6/classes.dex

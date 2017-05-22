@@ -1,3 +1,5 @@
+.gradle/
+build/
 .settings/
 bin/
 gen/
@@ -6,3 +8,10 @@ gen/
 project.properties
 /target/
 .DS_Store
+.gradle/
+.idea/
+build/
+xunyiwenyao.iml
+as_xunyiwenyao.iml
+local.properties
+app/app.iml
