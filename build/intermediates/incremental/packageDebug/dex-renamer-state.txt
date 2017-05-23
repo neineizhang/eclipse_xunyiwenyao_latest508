@@ -1,4 +1,4 @@
-#Tue May 23 00:35:55 CST 2017
+#Tue May 23 16:51:50 CST 2017
 base.0=/Volumes/anotherdisk/neinei/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Volumes/anotherdisk/neinei/eclipse_xunyiwenyao_latest508/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

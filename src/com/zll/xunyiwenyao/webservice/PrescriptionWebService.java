@@ -140,7 +140,9 @@ public class PrescriptionWebService {
         	prescription = new Prescription(
         			id, name, department, doctor, checker, patient,
         			drugmaps, status, date, clinical_diagnosis);
-        	        
+
+			/// add reason
+			prescription.setReview_opinion(jsonobj.get("review_opinion").toString());
         	prescriptionlist.add(prescription);
 //        	System.out.println("success add:"+JsonHelper.toJSON(prescription));
         }
@@ -236,7 +238,60 @@ public class PrescriptionWebService {
 //		}
 		return  map;
 	}
-	
+
+	public static void reviewPrescription(Prescription item){
+		Map<String, String> map = new HashMap<String, String>();
+//		System.out.println("checker_id :hahahahahahah"+item.getChecker().getId());
+		String url = "http://222.29.100.155/b2b2c/api/mobile/recipe/reviewRecpice.do";
+		StringBuilder itemStr = new StringBuilder();
+		itemStr.append("recipe_id="+item.getId());
+		itemStr.append("&recipe_name="+item.getName());
+
+		itemStr.append("&creator_id="+item.getDoctor().getId());
+		if(item.getChecker()!= null){
+			itemStr.append("&reviewer_id="+item.getChecker().getId());
+		}
+		itemStr.append("&user_name="+item.getPatient().getName());
+		itemStr.append("&user_age="+item.getPatient().getAge());
+		itemStr.append("&user_sex="+item.getPatient().getSex());
+		itemStr.append("&user_id="+item.getPatient().getId());
+		itemStr.append("&content="+item.getClinical_diagnosis());
+		itemStr.append("&status="+item.getStatus());
+		SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+		String timestr = df.format(new Date());
+		itemStr.append("&create_time_text="+timestr);
+		itemStr.append("&review_opinion="+item.getReview_opinion());
+
+		JSONArray jsonArray = new JSONArray();
+		for(Prescription_drugmap drugmap : item.getDruglist()){
+			JSONObject jsonObject = new JSONObject();
+			try {
+				jsonObject.put("amount", drugmap.getCount());
+				jsonObject.put("how_to_use", drugmap.getDescription());
+				jsonObject.put("drug_id", drugmap.getDrug().getId());
+				jsonObject.put("drug_name", drugmap.getDrug().getName());
+			} catch (JSONException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			jsonArray.put(jsonObject);
+		}
+		itemStr.append("&details_json="+jsonArray.toString());
+		System.out.println(itemStr.toString());
+		String result = HttpHelper.sendPost(url, itemStr.toString());
+		System.out.println(result);
+		//获取注册未审核功能
+
+
+		///
+		try {
+			initDB();
+		} catch (JSONException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
 	public static void updatePrescription(Prescription item){
 		Map<String, String> map = new HashMap<String, String>();
 //		System.out.println("checker_id :hahahahahahah"+item.getChecker().getId());

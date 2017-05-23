@@ -10,158 +10,92 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93feb714-414d-4627-a2f8-36b19d9ce859" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse_xunyiwenyao_latest508.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/zip-cache/i0JHsb_PIIuHLVI4qfz_VXvS8k0=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/i0JHsb_PIIuHLVI4qfz_VXvS8k0=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/android-support-v4_cc41437156cfa048e0259b0a7fe029254ba3abba.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/debug_30e94a52851a5eebe78ce0b74553657e29eb8da8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/gson-2.8.0_5de9ab5bf0af7f60bef63cf12362108b8d1224c8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/json-20160810_c7bbabe8d3cc43b28a373053aed8b68bb55ff7de.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/json-lib-2.4-jdk15_6a467b718db71d148d723bf8e88b0d919714f0ad.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse_xunyiwenyao_latest508 2.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/R$layout.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/R$menu.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/R$mipmap.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/R$style.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/R$styleable.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$10.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$2.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$3.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$4.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$5.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$6.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$2.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$8.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$9.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2$ViewHolderGroup.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2$ViewHolderGroup.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$MyExpandableListViewAdapter2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter$ListTextWatcher.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter$ListTextWatcher.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamineAllActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamineAllActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamineApprovedActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamineApprovedActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamineRefusedActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamineRefusedActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$2.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$3.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$4.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$ExamingScrollAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$ExamingScrollAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionQueryActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionQueryActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionQueryActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionQueryActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionQueryAllPrescriptionActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionQueryAllPrescriptionActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionQueryApprovedActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionQueryApprovedActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionQueryRefuseActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionQueryRefuseActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionQueryToApproveActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionQueryToApproveActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionQueryToSubmitActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionQueryToSubmitActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionTemplateActivity$MyExpandableListViewAdapter3.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionTemplateActivity$MyExpandableListViewAdapter3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionTemplateActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionTemplateActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionTemplateMangeActivity$ScrollAdapter2.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionTemplateMangeActivity$ScrollAdapter2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionTemplateMangeActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/PrescriptionTemplateMangeActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/RegisterActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/RegisterActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/ReportCheckActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/ReportCheckActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/ReportCreateActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/ReportCreateActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/ReportQueryActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/ReportQueryActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/ReviewCheckActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/ReviewCheckActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/ReviewCreateActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/ReviewCreateActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/ReviewQueryActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/activity/ReviewQueryActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/adapter/MyBaseExpandableListAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/adapter/MyBaseExpandableListAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/adapter/PrescriptionExamineAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/adapter/PrescriptionExamineAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/adapter/PrescriptionQueryAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/adapter/PrescriptionQueryAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/adapter/ReportAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/adapter/ReportAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/adapter/ReviewAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/adapter/ReviewAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/dbitem/Prescription.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/dbitem/Prescription.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/webservice/PrescriptionWebService.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/zll/xunyiwenyao/webservice/PrescriptionWebService.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/debug/dep/dependencies.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/debug/dep/dependencies.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_0.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_1.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_2.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_3.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_4.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_5.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_5.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_6.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_7.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_8.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/debug/slices/slice_9.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/AccessorMainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/AccessorMainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/DoctorInformationManageActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/DoctorInformationManageActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/InspectionCheckActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/InspectionCheckActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/InspectionCreateActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/InspectionCreateActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/InspectionQueryActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/InspectionQueryActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/LoginActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/LoginActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/MainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionExamineActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionExamineActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionExamineAllActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionExamineAllActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionExamineApprovedActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionExamineApprovedActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionExamineRefusedActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionExamineRefusedActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$ExamingScrollAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$ExamingScrollAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionQueryActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionQueryActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionQueryAllPrescriptionActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionQueryAllPrescriptionActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionQueryApprovedActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionQueryApprovedActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionQueryRefuseActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionQueryRefuseActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionQueryToApproveActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionQueryToApproveActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionQueryToSubmitActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionQueryToSubmitActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionTemplateActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionTemplateActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionTemplateMangeActivity$ScrollAdapter2.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionTemplateMangeActivity$ScrollAdapter2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionTemplateMangeActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/PrescriptionTemplateMangeActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/RegisterActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/RegisterActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/ReportCheckActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/ReportCheckActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/ReportCreateActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/ReportCreateActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/ReportQueryActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/ReportQueryActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/ReviewCheckActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/ReviewCheckActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/ReviewCreateActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/ReviewCreateActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/ReviewQueryActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/activity/ReviewQueryActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/util/MyListView.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/util/MyListView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/util/MyNumberPicker.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/util/MyNumberPicker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/util/TopBarView.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/util/TopBarView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/view/PrescriptionCreateScrollView.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/view/PrescriptionCreateScrollView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/view/PrescriptionExamingPrescriptionScrollView.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/view/PrescriptionExamingPrescriptionScrollView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/view/PrescriptionTemplateScrollView.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/zll/xunyiwenyao/view/PrescriptionTemplateScrollView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/zll/xunyiwenyao/view/PrescriptionCreateScrollView.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/zll/xunyiwenyao/view/PrescriptionCreateScrollView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/zll/xunyiwenyao/view/PrescriptionExamingPrescriptionScrollView.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/zll/xunyiwenyao/view/PrescriptionExamingPrescriptionScrollView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/zll/xunyiwenyao/view/PrescriptionTemplateScrollView.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/zll/xunyiwenyao/view/PrescriptionTemplateScrollView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/zll/xunyiwenyao/util/MyListView.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/zll/xunyiwenyao/util/MyListView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/zll/xunyiwenyao/util/MyNumberPicker.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/zll/xunyiwenyao/util/MyNumberPicker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/zll/xunyiwenyao/util/TopBarView.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/zll/xunyiwenyao/util/TopBarView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/AccessorMainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/AccessorMainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/DoctorInformationManageActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/DoctorInformationManageActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/InspectionCheckActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/InspectionCheckActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/InspectionCreateActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/InspectionCreateActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/InspectionQueryActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/InspectionQueryActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/LoginActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/LoginActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/MainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity$ScrollAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionExamineActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionExamineActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionExamineAllActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionExamineAllActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionExamineApprovedActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionExamineApprovedActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionExamineRefusedActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionExamineRefusedActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$ExamingScrollAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity$ExamingScrollAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionQueryActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionQueryActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionQueryAllPrescriptionActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionQueryAllPrescriptionActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionQueryApprovedActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionQueryApprovedActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionQueryRefuseActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionQueryRefuseActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionQueryToApproveActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionQueryToApproveActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionQueryToSubmitActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionQueryToSubmitActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionTemplateActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionTemplateActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionTemplateMangeActivity$ScrollAdapter2.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionTemplateMangeActivity$ScrollAdapter2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionTemplateMangeActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/PrescriptionTemplateMangeActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/RegisterActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/RegisterActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/ReportCheckActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/ReportCheckActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/ReportCreateActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/ReportCreateActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/ReportQueryActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/ReportQueryActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/ReviewCheckActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/ReviewCheckActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/ReviewCreateActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/ReviewCreateActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/ReviewQueryActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/zll/xunyiwenyao/activity/ReviewQueryActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v11.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v11.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v14.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v14.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/anim.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-mdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-mdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/source/r/debug/com/zll/xunyiwenyao/R.java" afterPath="$PROJECT_DIR$/build/generated/source/r/debug/com/zll/xunyiwenyao/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/menu.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/menu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-hdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-hdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-mdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-mdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-xhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-xhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-xxhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-xxhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-xxxhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-xxxhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/build/intermediates/restart-dex/debug/build-info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout/newprescription.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout/newprescription.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse_xunyiwenyao_latest508.iml" afterPath="$PROJECT_DIR$/eclipse_xunyiwenyao_latest508.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/newprescription.xml" afterPath="$PROJECT_DIR$/res/layout/newprescription.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.java" afterPath="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity.java" afterPath="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionQueryRefuseActivity.java" afterPath="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionQueryRefuseActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Prescription.java" afterPath="$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Prescription.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionWebService.java" afterPath="$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionWebService.java" />
     </list>
     <ignored path="eclipse_xunyiwenyao_latest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -194,31 +128,78 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="newprescription.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/newprescription.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+            <state relative-caret-position="75">
+              <caret line="436" column="42" selection-start-line="436" selection-start-column="29" selection-end-line="436" selection-end-column="42" />
+              <folding>
+                <marker date="1495528593000" expanded="true" signature="17088:17275" ph="..." />
+                <marker date="1495528593000" expanded="true" signature="17568:18481" ph="..." />
+                <marker date="1495528593000" expanded="true" signature="18233:18457" ph="..." />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrescriptionCreateMainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="318" column="62" selection-start-line="318" selection-start-column="62" selection-end-line="318" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#13615#13631#0" expanded="false" />
+                <element signature="e#14238#18008#0" expanded="false" />
+                <element signature="e#14932#14954#0" expanded="false" />
+                <element signature="e#18007#18008#0" expanded="false" />
+                <element signature="e#18047#21941#0" expanded="false" />
+                <element signature="e#18663#18685#0" expanded="false" />
+                <element signature="e#19599#19607#0" expanded="false" />
+                <element signature="e#20614#21108#0" expanded="false" />
+                <element signature="e#21107#21108#0" expanded="false" />
+                <element signature="e#21148#21893#0" expanded="false" />
+                <element signature="e#21892#21893#0" expanded="false" />
+                <element signature="e#21940#21941#0" expanded="false" />
+                <element signature="e#21973#26292#0" expanded="false" />
+                <element signature="e#22622#22630#0" expanded="false" />
+                <element signature="e#23332#23354#0" expanded="false" />
+                <element signature="e#26291#26292#0" expanded="false" />
+                <element signature="e#26324#26685#0" expanded="false" />
+                <element signature="e#26684#26685#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrescriptionWebService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionWebService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="144" column="62" selection-start-line="144" selection-start-column="62" selection-end-line="144" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TopBarView.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/util/TopBarView.java">
+      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+            <state relative-caret-position="225">
+              <caret line="36" column="39" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lint.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lint.xml">
+      <file leaf-file-name="Prescription.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Prescription.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="251">
+              <caret line="140" column="33" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -1197,23 +1178,24 @@
         <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Utils.java" />
         <option value="$PROJECT_DIR$/res/layout/inspection_create.xml" />
         <option value="$PROJECT_DIR$/res/layout/register_layout.xml" />
-        <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity.java" />
         <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/LoginActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/drugs_list.xml" />
         <option value="$PROJECT_DIR$/res/layout/examiningprescription.xml" />
-        <option value="$PROJECT_DIR$/res/layout/newprescription.xml" />
         <option value="$PROJECT_DIR$/res/layout/templatemanage.xml" />
-        <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionWebService.java" />
-        <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/login.xml" />
         <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/RegisterActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Prescription.java" />
+        <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionQueryRefuseActivity.java" />
+        <option value="$PROJECT_DIR$/res/layout/newprescription.xml" />
+        <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionWebService.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="38" />
     <option name="width" value="1280" />
-    <option name="height" value="725" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -1258,21 +1240,137 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eclipse_xunyiwenyao_latest508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eclipse_xunyiwenyao_latest508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xunyiwenyao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webservice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eclipse_xunyiwenyao_latest508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eclipse_xunyiwenyao_latest508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xunyiwenyao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eclipse_xunyiwenyao_latest508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eclipse_xunyiwenyao_latest508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xunyiwenyao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dbitem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eclipse_xunyiwenyao_latest508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eclipse_xunyiwenyao_latest508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xunyiwenyao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eclipse_xunyiwenyao_latest508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eclipse_xunyiwenyao_latest508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eclipse_xunyiwenyao_latest508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eclipse_xunyiwenyao_latest508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane />
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="settings.editor.selected.configurable" value="instant.run" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="android.project.structure.last.selected" value="eclipse_xunyiwenyao_latest508 2" />
     <property name="android.project.structure.proportion" value="0.15" />
@@ -1847,18 +1945,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="38" width="1280" height="725" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.4717286" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4659271" sideWeight="0.44022617" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35835695" sideWeight="0.44022617" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28040057" sideWeight="0.5064695" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32646593" sideWeight="0.50646204" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2204611" sideWeight="0.48569384" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32646593" sideWeight="0.49353796" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22028527" sideWeight="0.5177706" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36402267" sideWeight="0.4822294" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2081545" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.4914163" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32646593" sideWeight="0.49353796" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1868,15 +1967,14 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2081545" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1930,48 +2028,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/ReportCreateActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/DoctorInformationManageActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionCreateActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="52" column="70" selection-start-line="52" selection-start-column="70" selection-end-line="52" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/util/JsonHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/util/MyNumberPicker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/ReportWebService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="119" column="9" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eclipse_xunyiwenyao_latest508-release.apk" />
     <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/AccessorMainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -2016,13 +2072,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/inspection_create.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
@@ -2034,13 +2083,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="108" column="41" selection-start-line="108" selection-start-column="41" selection-end-line="108" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Prescription.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -2135,13 +2177,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/prescription_create_itemlist.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/prescription_examine.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2153,20 +2188,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/prescription_create.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/newprescription.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4140">
-          <caret line="276" column="50" selection-start-line="276" selection-start-column="50" selection-end-line="276" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -2184,24 +2205,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="78" column="53" selection-start-line="78" selection-start-column="53" selection-end-line="78" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Doctor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1095">
           <caret line="77" column="15" selection-start-line="77" selection-start-column="15" selection-end-line="77" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionWebService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3015">
-          <caret line="220" column="39" selection-start-line="220" selection-start-column="39" selection-end-line="220" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -2219,13 +2226,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8970">
-          <caret line="653" column="68" selection-start-line="653" selection-start-column="68" selection-end-line="653" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/util/UploadUtil.java" />
     <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/RegisterActivity.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -2235,6 +2235,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eclipse_xunyiwenyao_latest508 2.iml.rxz" />
+    <entry file="file://$PROJECT_DIR$/eclipse_xunyiwenyao_latest508 2.iml" />
     <entry file="file://$PROJECT_DIR$/lint.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2243,7 +2244,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eclipse_xunyiwenyao_latest508 2.iml" />
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/PrescriptionTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/RecipeTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
@@ -2252,10 +2268,141 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionQueryAllPrescriptionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionQueryApprovedActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/prescription_create.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-502">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/prescription_create_itemlist.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionExamingPrescriptionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="114" column="73" selection-start-line="114" selection-start-column="73" selection-end-line="114" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionQueryRefuseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionQueryToSubmitActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="66" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/newprescription.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="436" column="42" selection-start-line="436" selection-start-column="29" selection-end-line="436" selection-end-column="42" />
+          <folding>
+            <marker date="1495528593000" expanded="true" signature="17088:17275" ph="..." />
+            <marker date="1495528593000" expanded="true" signature="17568:18481" ph="..." />
+            <marker date="1495528593000" expanded="true" signature="18233:18457" ph="..." />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/util/TopBarView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        <state relative-caret-position="75">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/activity/PrescriptionCreateMainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="318" column="62" selection-start-line="318" selection-start-column="62" selection-end-line="318" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#13615#13631#0" expanded="false" />
+            <element signature="e#14238#18008#0" expanded="false" />
+            <element signature="e#14932#14954#0" expanded="false" />
+            <element signature="e#18007#18008#0" expanded="false" />
+            <element signature="e#18047#21941#0" expanded="false" />
+            <element signature="e#18663#18685#0" expanded="false" />
+            <element signature="e#19599#19607#0" expanded="false" />
+            <element signature="e#20614#21108#0" expanded="false" />
+            <element signature="e#21107#21108#0" expanded="false" />
+            <element signature="e#21148#21893#0" expanded="false" />
+            <element signature="e#21892#21893#0" expanded="false" />
+            <element signature="e#21940#21941#0" expanded="false" />
+            <element signature="e#21973#26292#0" expanded="false" />
+            <element signature="e#22622#22630#0" expanded="false" />
+            <element signature="e#23332#23354#0" expanded="false" />
+            <element signature="e#26291#26292#0" expanded="false" />
+            <element signature="e#26324#26685#0" expanded="false" />
+            <element signature="e#26684#26685#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/dbitem/Prescription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="140" column="33" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zll/xunyiwenyao/webservice/PrescriptionWebService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="144" column="62" selection-start-line="144" selection-start-column="62" selection-end-line="144" selection-end-column="62" />
           <folding />
         </state>
       </provider>

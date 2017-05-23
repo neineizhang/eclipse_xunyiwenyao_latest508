@@ -19,7 +19,9 @@ import com.zll.xunyiwenyao.webservice.PrescriptionTemplateWebService;
 import com.zll.xunyiwenyao.webservice.PrescriptionWebService;
 
 import android.app.Activity;
+import android.app.AlertDialog;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.opengl.Visibility;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -33,6 +35,7 @@ import android.widget.ListView;
 import android.widget.SimpleAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
+import android.widget.EditText;
 
 public class PrescriptionExamingPrescriptionActivity extends Activity {
 	
@@ -90,11 +93,33 @@ public class PrescriptionExamingPrescriptionActivity extends Activity {
 			@Override
 			public void onClick(View arg0) {
 				// TODO Auto-generated method stub
-				prescription.setStatus(Utils.STATUS.REFUSED.ordinal());
-				prescription.setChecker(Utils.LOGIN_DOCTOR);
-				PrescriptionWebService.updatePrescription(prescription);
-				Toast.makeText(PrescriptionExamingPrescriptionActivity.this, "REFUSED SUCCESS", Toast.LENGTH_SHORT).show();
-				finish();
+
+				final EditText inputServer = new EditText(PrescriptionExamingPrescriptionActivity.this);
+				inputServer.setFocusable(true);
+
+				AlertDialog.Builder builder = new AlertDialog.Builder(PrescriptionExamingPrescriptionActivity.this);
+				builder.setTitle("请输入拒绝理由：").setView(inputServer);
+				builder.setPositiveButton("确定",
+						new DialogInterface.OnClickListener() {
+
+							public void onClick(DialogInterface dialog, int which) {
+								//reason = inputServer.getText().toString();
+                                //Toast.makeText(PrescriptionExamingPrescriptionActivity.this, "SUCCESS", Toast.LENGTH_SHORT).show();
+
+                                String reason = inputServer.getText().toString();
+                                System.out.println("rxz+"+reason);
+
+                                prescription.setStatus(Utils.STATUS.REFUSED.ordinal());
+                                prescription.setChecker(Utils.LOGIN_DOCTOR);
+								prescription.setReview_opinion(reason);
+                                PrescriptionWebService.reviewPrescription(prescription);
+                                Toast.makeText(PrescriptionExamingPrescriptionActivity.this, "REFUSED SUCCESS", Toast.LENGTH_SHORT).show();
+                                finish();
+                            }
+						});
+				builder.show();
+
+
 			}
 		});
 	    initViews();

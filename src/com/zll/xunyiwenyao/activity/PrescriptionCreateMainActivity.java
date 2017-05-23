@@ -54,6 +54,7 @@ import android.widget.RadioGroup.OnCheckedChangeListener;
 import android.widget.SimpleAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
+import android.widget.LinearLayout;
 
 public class PrescriptionCreateMainActivity extends Activity {
 
@@ -83,6 +84,9 @@ public class PrescriptionCreateMainActivity extends Activity {
 	private int prescription_id = 0;
 	private int modify = 0;
 
+	private TextView reason_tv = null;
+	private LinearLayout reason_layout = null;
+
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
@@ -105,6 +109,10 @@ public class PrescriptionCreateMainActivity extends Activity {
 		checker_name_et = (EditText) findViewById(R.id.checker_name_et);
 		other_information_et = (EditText) findViewById(R.id.other_information_et);
 		clinical_diagnosis_et = (EditText) findViewById(R.id.clinical_diagnosis_text);
+		// add reason
+		reason_tv = (TextView)findViewById(R.id.reason);
+        reason_layout = (LinearLayout)findViewById(R.id.reason_layout);
+        reason_layout.setVisibility(View.INVISIBLE);
 
 		SimpleDateFormat sDateFormat = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
 		String date = sDateFormat.format(new java.util.Date());
@@ -301,6 +309,16 @@ public class PrescriptionCreateMainActivity extends Activity {
 					delete.setVisibility(View.INVISIBLE);
 				}
 				////
+                //// add reason
+                if(prescription.getStatus() == Utils.STATUS.REFUSED.ordinal()){
+                    if(prescription.getReview_opinion() != null){
+                        reason_tv.setText(prescription.getReview_opinion());
+                    }else{
+                        reason_tv.setText("");
+                    }
+                    reason_layout.setVisibility(View.VISIBLE);
+                }
+                ////
 				
 				prescription_id = prescription.getId();
 				// chufangmingcheng.setText(template_name);

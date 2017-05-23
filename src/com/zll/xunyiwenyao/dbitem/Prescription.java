@@ -18,6 +18,7 @@ public class Prescription {
     private int status;
     private String date;
     private String clinical_diagnosis;
+    private String review_opinion;
     
 
     public Prescription(){
@@ -136,6 +137,9 @@ public class Prescription {
 	public void setChecker(Doctor checker) {
 		this.checker = checker;
 	}
+
+	public void setReview_opinion(String review_opinion){ this.review_opinion = review_opinion; }
+    public String getReview_opinion(){ return review_opinion; };
 
     
 }

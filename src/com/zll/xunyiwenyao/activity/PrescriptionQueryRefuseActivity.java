@@ -65,9 +65,10 @@ public class PrescriptionQueryRefuseActivity extends Activity implements OnItemC
 	@Override
 	public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 		// TODO Auto-generated method stub
-		Intent i = new Intent(this, PrescriptionExamingPrescriptionActivity.class);
+		Intent i = new Intent(this, PrescriptionCreateMainActivity.class);
 		String prescription_name = prescriptionlist.get(position).getName();
 		i.putExtra("prescription_name", prescription_name);
 		startActivity(i);
+		finish();
 	}
 }
